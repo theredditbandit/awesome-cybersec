@@ -1,2 +1,405 @@
 # awesome-cybersec
 A collection of awesome platforms, blogs, documents, books, resources and cool stuff about security 
+
+  
+
+#  All the good stuff in one place
+  Honestly before any of the resources getting familiar with the shortcuts  is extremely helpful
+  https://www.shortcutfoo.com/
+  
+  
+   ## Training 
+ * [Range force](https://portal.rangeforce.com/courses)
+ * [HTB](https://www.hackthebox.eu/)
+ * [Tryhackme](https://tryhackme.com/)
+ * Check out the Tryhackme-FREE PATH at the end of the document 
+ * [Blue team academy](https://app.letsdefend.io/academy/)
+ * [Kali revealed](https://kali.training/)
+ * [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/)
+ * https://platform.mosse-institute.com/#/dashboard
+ * https://infosec4tc.teachable.com/p/cism2020
+ * [https://ohmygit.org/](https://ohmygit.org/)  
+ * [https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/](https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/)  
+ * [https://riptutorial.com/bash](https://riptutorial.com/bash)  
+ * https://www.hackerrank.com/domains/shell
+ * [https://pentesterlab.com/](https://pentesterlab.com/)
+ * [https://www.pentesteracademy.com/pricing](https://www.pentesteracademy.com/pricing)
+ * [https://www.offensive-security.com/labs/individual/](https://www.offensive-security.com/labs/individual/)
+ * [https://www.vulnhub.com/](https://www.vulnhub.com/)
+ * [https://pentestbox.org/](https://pentestbox.org/)
+ * https://hacking-lab.com/
+ * [https://scs.hacking-lab.com/](https://scs.hacking-lab.com/)
+ * https://opensecuritytraining.info/
+ * https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/
+ * [Getting started with OSINT](https://www.reddit.com/r/OSINT/comments/e78he1/osint_for_beginners_part_1_introduction/?utm_source=share&utm_medium=web2x&context=3)
+ 
+
+### WebApp/Bugbounty
+*  [Web Security Academy](https://portswigger.net/web-security)
+*  [https://owasp.org/www-project-juice-shop/](https://owasp.org/www-project-juice-shop/)
+*  [https://www.bugbountyhunter.com/](https://www.bugbountyhunter.com/) 
+*  [https://www.hacker101.com/](https://www.hacker101.com/)
+*  [https://www.hacksplaining.com/](https://www.hacksplaining.com/)    
+*  [awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
+- [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
+- [https://thexssrat.podia.com/dashboard](https://thexssrat.podia.com/dashboard)
+- [https://github.com/websploit/websploit](https://github.com/websploit/websploit)
+- [https://dvwa.co.uk/](https://dvwa.co.uk/)
+- [https://owasp.org/www-project-webgoat/](https://owasp.org/www-project-webgoat/)
+- [Resources & Disclosed Reports](https://github.com/HolyBugx/HolyTips/tree/main/Resources)
+
+- learning how various stacks function seems to be an important aspect of bug bounty hunting , so you need to learn at least one of MERN or LAMP or whatever.
+You can learn the MERN Stack by building your own Yelp-like restaurant review site. MERN stands for MongoDB + Express + React + Node.js. Then in the second half of the course, you'll learn how to swap out your Node.js/Express back end in favor of Serverless Architecture. (3 hour YouTube course): [https://www.freecodecamp.org/news/create-a-mern-stack-app-with-a-serverless-backend/](https://www.freecodecamp.org/news/create-a-mern-stack-app-with-a-serverless-backend/)
+
+#### Rsources from the hacker101 discord server
+**How to get started with hacking and bug bounties?** 
+We've gathered some useful resources to get your started on your bug bounty journey! 
+- [**Guide to learn hacking**](https://www.youtube.com/watch?v=2TofunAI6fU "https://www.youtube.com/watch?v=2TofunAI6fU") 
+-   [**Finding your first bug**](https://portswigger.net/blog/finding-your-first-bug-bounty-hunting-tips-from-the-burp-suite-community "https://portswigger.net/blog/finding-your-first-bug-bounty-hunting-tips-from-the-burp-suite-community")
+ - [ **Port Swigger Web Security Academy**](https://portswigger.net/web-security/learning-path "https://portswigger.net/web-security/learning-path") 
+ -  [**Nahamsec's Twitch**](https://www.twitch.tv/nahamsec "https://www.twitch.tv/nahamsec") 
+ - [ **Nahamsec interviews with top bug bounty hunters**](https://www.youtube.com/c/Nahamsec "https://www.youtube.com/c/Nahamsec") 
+-  [**Nahamsec's beginner repo**](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters")
+-   [**Stök**](https://www.youtube.com/c/STOKfredrik "https://www.youtube.com/c/STOKfredrik")
+-    [**InsiderPhD**](https://www.youtube.com/c/InsiderPhD "https://www.youtube.com/c/InsiderPhD") 
+-    [ **Series for new bug hunters**](https://www.youtube.com/playlist?list=PLbyncTkpno5FAC0DJYuJrEqHSMdudEffw "https://www.youtube.com/playlist?list=PLbyncTkpno5FAC0DJYuJrEqHSMdudEffw") 
+-   [ **Jhaddix** ](https://www.youtube.com/c/jhaddix "https://www.youtube.com/c/jhaddix") -
+##### Posts from Hacker101 members on how to get started hacking 
+ -  [**zonduu**](https://medium.com/@zonduu/bug-bounty-beginners-guide-683e9d567b9f "https://medium.com/@zonduu/bug-bounty-beginners-guide-683e9d567b9f") 
+ -   [**p4nda**](https://enfinlay.github.io/bugbounty/2020/08/15/so-you-wanna-hack.html "https://enfinlay.github.io/bugbounty/2020/08/15/so-you-wanna-hack.html")
+ -  [**also a blog on subdomain takeovers**](https://enfinlay.github.io/sto/ip/domain/bugbounty/2020/09/12/ip-server-domain.html "https://enfinlay.github.io/sto/ip/domain/bugbounty/2020/09/12/ip-server-domain.html") 
+ -    [**clos2100** on getting started without a technical background ](https://twitter.com/pirateducky/status/1300566000665014275 "https://twitter.com/pirateducky/status/1300566000665014275") - 
+ -    [ **al-madjus** from 0 to bug hunter](https://klarsen.net/uncategorized/from-0-to-bug-hunter-my-journey/ "https://klarsen.net/uncategorized/from-0-to-bug-hunter-my-journey/")
+ -  [ **dee-see**'s resources for Android Hacking](https://blog.deesee.xyz/android/security/2020/01/13/android-application-hacking-resources.html "https://blog.deesee.xyz/android/security/2020/01/13/android-application-hacking-resources.html") 
+ -  [   **hacker101 videos**](https://www.hacker101.com/videos "https://www.hacker101.com/videos")
+
+#### Free and opensource alrernative to burp
+- [https://www.reddit.com/r/bugbounty/comments/my3625/open\_source\_alternative\_to\_burpsuite/?utm\_source=share&utm\_medium=ios\_app&utm\_name=iossmf](https://www.reddit.com/r/bugbounty/comments/my3625/open_source_alternative_to_burpsuite/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+-   Owasp zap [](https://www.zaproxy.org/)[https://www.zaproxy.org/](https://www.zaproxy.org/)
+  
+  
+  ## Tools
+- [Pwncat](https://github.com/calebstewart/pwncat) is a post-exploitation platform ~~for Linux targets~~. It started out as a wrapper around basic bind and reverse shells and has grown from there. It streamlines common red team operations while staging code from your attacker machine, not the target.
+
+  
+  
+  ## CTF's
+ * [https://ctftime.org/](https://ctftime.org/) 
+ *   [https://ctf.hackthebox.eu/ctfs](https://ctf.hackthebox.eu/ctfs)
+ *  [https://www.hackthissite.org/](https://www.hackthissite.org/)
+ *  [Hack.me](https://hack.me/)
+ *  [Try2Hackme](https://try2hack.me/)
+ *  [Hackthissite](https://www.hackthissite.org/)
+ *  [https://overthewire.org/wargames/](https://overthewire.org/wargames/)  
+ *  [https://underthewire.tech/wargames](https://underthewire.tech/wargames)  
+  
+  ## Github
+  * [Malware Analysis Course](https://github.com/hasherezade/malware_training_vol1)
+  * [Red Team tactics and techniques](https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques)
+  * [Red Teaming toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit)
+  * [Red Team](https://github.com/BankSecurity/Red_Team)
+  * [awesome red teaming](https://github.com/an4kein/awesome-red-teaming)
+  * [Powershell red team](https://github.com/tobor88/PowerShell-Red-Team)
+  * [Red Teaming](https://github.com/winterwolf32/Red-teaming)
+  * [Red-team](https://github.com/Sorsnce/red-team)
+  * [Red team diaries](https://github.com/ihebski/A-Red-Teamer-diaries)
+  * [awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
+  *  [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
+  *  [awesome-security](https://github.com/sbilly/awesome-security)
+  
+  
+  
+  ## Blogs
+   * [https://blog.tryhackme.com/free\_path/](https://blog.tryhackme.com/free_path/)
+   * [From zero to hero in your first pentest](https://corneacristian.medium.com/from-zero-to-your-first-penetration-test-7479bce3a5)
+   * [So you want to be a hacker in 2021](https://tcm-sec.com/so-you-want-to-be-a-hacker-2021-edition/)
+   * [netsecfocus](https://www.netsecfocus.com/)
+   * https://nosecurity.blog/cptc2020
+   * [https://null-byte.wonderhowto.com/](https://null-byte.wonderhowto.com/)
+   * [https://portswigger.net/blog/flying-high-in-the-web-security-academy](https://portswigger.net/blog/flying-high-in-the-web-security-academy)  
+   * [https://www.simplycyber.io/free-cyber-resources](https://www.simplycyber.io/free-cyber-resources)  
+   * [https://blog.g0tmi1k.com/](https://blog.g0tmi1k.com/)  
+   * [https://www.hackingarticles.in/](https://www.hackingarticles.in/)  
+   * [https://www.hackingtutorials.org/](https://www.hackingtutorials.org/) 
+   * [https://www.hacking-tutorial.com/](https://www.hacking-tutorial.com/) 
+   * [https://www.netsecfocus.com/oscp/2021/05/06/The\_Journey\_to\_Try\_Harder-\_TJnull-s\_Preparation\_Guide\_for\_PEN-200\_PWK\_OSCP\_2.0.html](https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html)   
+   * https://hacklido.com/
+   * [What is a block cypher](https://www.freecodecamp.org/news/what-is-a-block-cipher/)
+   * [freecodecamp blog](https://www.freecodecamp.org/news/)
+## Paid training 
+  * [cybersec labs](https://www.cyberseclabs.co.uk/)
+  * [Virtyal Hacking Labs](https://www.virtualhackinglabs.com/)
+  * https://academy.tcm-sec.com/courses
+  * [INE](https://my.ine.com/learning-paths)
+  * https://hackersacademy.com/
+
+
+## Resources
+*  https://startupstash.com/cybersecurity-resources/
+
+*  https://threatexpress.com/redteaming/resources/
+*  [Reverse enginering](https://www.infosecinstitute.com/skills/learning-paths/reverse-engineering/)
+*  [https://ippsec.rocks/?#](https://ippsec.rocks/?#)  
+*  [https://liveoverflow.com/](https://liveoverflow.com/)
+
+
+## Programing resources 
+**General**
+
+[Flight rules for Git](https://github.com/k88hudson/git-flight-rules)
+
+[Comprehensive Guide to Learn CS Online](https://qvault.io/2020/11/18/comprehensive-guide-to-learn-computer-science-online/)
+
+[What Is Test Automation?](https://www.perfecto.io/blog/what-is-test-automation)
+
+[Get Started With TypeScript the Easy Way](https://austingil.com/typescript-the-easy-way/)
+
+[Machine Learning with Introduction](https://rubikscode.net/2021/01/04/machine-learning-with-ml-net-introduction/)
+
+[freecodecamp](https://www.freecodecamp.org/)
+
+[Programiz](https://www.programiz.com/) 
+
+
+**Python**
+
+[Ultimate Python study guide](https://github.com/huangsam/ultimate-python)
+
+[A beginner’s guide to data visualization with Python](https://old.reddit.com/r/Python/comments/kriteb/a_beginners_guide_to_data_visualization_with/)
+
+[and Seaborn](https://old.reddit.com/r/Python/comments/kriteb/a_beginners_guide_to_data_visualization_with/)
+
+[Nice Guide on Modern Python Packages](https://old.reddit.com/r/Python/comments/kxev5h/nice_guide_on_modern_python_packages/)
+
+[Intro to Python and Programming for non-CS majors](https://github.com/webartifex/intro-to-python)
+
+ 
+[https://www.gormanalysis.com/blog/python-pandas-for-your-grandpa/](https://www.gormanalysis.com/blog/python-pandas-for-your-grandpa/)  
+
+
+**Javascript**
+
+[The Modern JavaScript Tutorial](https://javascript.info/)
+
+[JavaScript 101 - Variables & Primitives](https://spdevuk.com/javascript-101-variables-and-primitives/)
+
+[Guide To Javascript Array Functions: Why you should pick the least powerful tool for the job](https://jesseduffield.com/array-functions-and-the-rule-of-least-power/)
+
+[Learn and practice modern JavaScript](https://learnjavascript.online/)
+
+**Java**
+
+[A Hitchhiker's Guide to Containerizing (Spring Boot) Java Apps](https://blog.frankel.ch/hitchhiker-guide-containerizing-java-apps/)
+
+[A beginner’s guide to CDC (Change Data Capture)](https://vladmihalcea.com/a-beginners-guide-to-cdc-change-data-capture/)
+
+[Java 15 Programmer's Guide To Text Blocks](https://inside.java/2020/08/05/textblocks-programmer-guide/)
+
+[Modern Web Development in Java - The (Never) Complete Guide](https://asd.learnlearn.in/java-web/)
+
+[Java Modules Cheat Sheet](https://old.reddit.com/r/java/comments/jyddn9/java_modules_cheat_sheet/)
+
+[Java Modules Cheat Sheet](https://nipafx.dev/build-modules/)
+
+**C++**
+
+[The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
+
+[Linear-cpp](https://github.com/jesyspa/linear-cpp)
+
+[Tony Gaddis Early Objects](http://instructor.sdu.edu.kz/~bakhyt/CPP/suggested%20books/Starting%20out%20with%20C++.pdf)
+
+
+## Youtube channels 
+Pwnfunction  
+  
+zSecurity  
+  
+HackerSploit  
+  
+nullbyte  
+  
+CSECTutorials  
+  
+LiveOverFlow  
+  
+Jhon Hammond  
+  
+NetworkChuck  
+  
+The cyber mentor  
+  
+Ippsec  
+  
+Insiderphd  
+  
+David bomball  
+  
+Alhz4r3d  
+
+
+## Discord servers
+[the cyber mentor]([https://discord.gg/tcm](https://discord.gg/tcm))  
+  
+[the many hats club]([https://discord.gg/infosec](https://discord.gg/infosec))  
+  
+[infosec prep ]([https://discord.gg/infosecprep](https://discord.gg/infosecprep))  
+  
+[certification station]([https://discord.gg/certstation](https://discord.gg/certstation))  
+  
+[network Chuck]([https://discord.gg/networkchuck](https://discord.gg/networkchuck))  
+  
+[nahmsec]([https://discord.gg/xd75Stsuxk](https://discord.gg/xd75Stsuxk))  
+  
+[bounty hunters]([https://discord.gg/bugbounty](https://discord.gg/bugbounty))  
+  
+[The Alh4z-R3d Team]([https://discord.gg/thealh4zr3dteam](https://discord.gg/thealh4zr3dteam))  
+  
+[hack the box]([https://discord.gg/hackthebox](https://discord.gg/hackthebox))  
+  
+[tryhackme]([https://discord.gg/tryhackme](https://discord.gg/tryhackme))  
+  
+[hack this site]([https://discord.gg/ETm3Q8SSht](https://discord.gg/ETm3Q8SSht))  
+  
+[PG (proving grounds) ]([https://discord.gg/6neBxaGjHD](https://discord.gg/6neBxaGjHD))  
+  
+[Getting started in security ]([https://discord.gg/dnEcAqZn4x](https://discord.gg/dnEcAqZn4x))  
+  
+[INE Unofficial server ]([https://discord.gg/XGVaBeapXQ](https://discord.gg/XGVaBeapXQ))  
+  
+[Offsec official server]([https://discord.gg/offsec](https://discord.gg/offsec))  
+  
+[ctf learn]([https://discord.gg/Susw824A2T](https://discord.gg/Susw824A2T)) 
+
+[Hacker101](https://discord.gg/HuwdMBJ2WS)
+
+
+
+
+  ## Misclaneous links
+  
+  * https://thdrksdhckr.blogspot.com/2021/01/post-list-of-all-courses-on-thdrksdhckr.html
+  
+  * https://freetraining.dfirdiva.com/
+  * [https://osintframework.com/](https://osintframework.com/)
+ 
+  *  [You'll find majority of the books you're looking for here](https://b-ok.global/)
+  *  [ssh-audit](https://github.com/jtesta/ssh-audit)
+  *  [Secure your linux install](https://www.reddit.com/r/linux/comments/ns7r7o/a_complete_yet_beginner_friendly_guide_on_how_to/)
+  
+
+
+## Tryhackme-FREE PATH
+Use this in your own notes to easily keep track.
+
+I suggest this key:
+
+-   👍 = Completed.
+-   ⏳ = In progress.
+-   🔴 = Stopped, depends on other tasks, depends on knowledge from other rooms.
+
+```markdown
+# Level 1 - Intro
+- [ ] OpenVPN <https://tryhackme.com/room/openvpn>
+- [ ] Welcome <https://tryhackme.com/jr/welcome>
+- [ ] Intro to Researching <https://tryhackme.com/room/introtoresearch>
+- [ ] The Hacker Methodology <https://tryhackme.com/room/hackermethodology>
+- [ ] Learn Linux <https://tryhackme.com/module/linux-fundamentals>
+- [ ] Crash Course Pentesting <https://tryhackme.com/room/ccpentesting>
+
+**Introductory CTFs to get your feet wet**
+
+- [ ] Google Dorking <https://tryhackme.com/room/googledorking>
+- [ ] OHsint <https://tryhackme.com/room/ohsint>
+- [ ] Shodan.io <https://tryhackme.com/room/shodan>
+
+# Level 2 - Tooling
+- [ ] Tmux <https://tryhackme.com/room/rptmux>
+- [ ] Nmap <https://tryhackme.com/room/furthernmap>
+- [ ] Web Scanning <https://tryhackme.com/room/rpwebscanning>
+- [ ] Sublist3r <https://tryhackme.com/room/rpsublist3r>
+- [ ] Metasploit <https://tryhackme.com/room/rpmetasploit>
+- [ ] Hydra <https://tryhackme.com/room/hydra>
+- [ ] Linux Privesc <https://tryhackme.com/room/linuxprivesc>
+- [ ] Web Scanning <https://tryhackme.com/room/rpwebscanning>
+- [ ] Shodan <https://tryhackme.com/room/shodan>
+- [ ] RustScan (I invented RustScan so excuse the self-promo) <https://tryhackme.com/room/rustscan>
+
+**More introductory CTFs**
+- [ ] Vulnversity - <https://tryhackme.com/room/vulnversity>
+- [ ] Blue - <https://tryhackme.com/room/blue>
+- [ ] Simple CTF <https://tryhackme.com/room/easyctf>
+- [ ] Bounty Hacker <https://tryhackme.com/room/cowboyhacker>
+- [ ] Brute It <https://tryhackme.com/room/bruteit>
+
+# Level 3 - Crypto & Hashes with CTF practice
+- [ ] Crack the hash <https://tryhackme.com/room/crackthehash>
+- [ ] Agent Sudo <https://tryhackme.com/room/agentsudoctf>
+- [ ] The Cod Caper <https://tryhackme.com/room/thecodcaper>
+- [ ] Ice <https://tryhackme.com/room/ice>
+- [ ] Lazy Admin <https://tryhackme.com/room/lazyadmin>
+- [ ] Basic Pentesting <https://tryhackme.com/room/basicpentestingjt>
+
+# Level 4 - Web
+- [ ] OWASP top 10 <https://tryhackme.com/room/owasptop10>
+- [ ] Inclusion <https://tryhackme.com/room/inclusion>
+- [ ] Injection <https://tryhackme.com/room/injection>
+- [ ] Vulnversity <https://tryhackme.com/room/vulnversity>
+- [ ] Basic Pentesting <https://tryhackme.com/room/basicpentestingjt>
+- [ ] Juiceshop <https://tryhackme.com/room/owaspjuiceshop>
+- [ ] Ignite <https://tryhackme.com/room/ignite>
+- [ ] Overpass <https://tryhackme.com/room/overpass>
+- [ ] Year of the Rabbit <https://tryhackme.com/room/yearoftherabbit>
+- [ ] DevelPy <https://tryhackme.com/room/bsidesgtdevelpy>
+- [ ] Jack of all trades <https://tryhackme.com/room/jackofalltrades>
+- [ ] Bolt <https://tryhackme.com/room/bolt>
+
+# Level 5 - Reverse Engineering
+- [ ] Intro to x86 64 <https://tryhackme.com/room/introtox8664>
+- [ ] CC Ghidra <https://tryhackme.com/room/ccghidra>
+- [ ] CC Radare2 <https://tryhackme.com/room/ccradare2>
+- [ ] CC Steganography <https://tryhackme.com/room/ccstego>
+- [ ] Reverse Engineering <https://tryhackme.com/room/reverseengineering>
+- [ ] Reversing ELF <https://tryhackme.com/room/reverselfiles>
+- [ ] Dumping Router Firmware <https://tryhackme.com/room/rfirmware>
+
+# Level 6 - Networking
+- [ ] Introduction to Networking <https://tryhackme.com/room/introtonetworking>
+- [ ] Smag Grotto <https://tryhackme.com/room/smaggrotto>
+- [ ] Overpass 2 <https://tryhackme.com/room/overpass2hacked>
+
+# Level 7 - PrivEsc
+- [ ] Sudo Security Bypass <https://tryhackme.com/room/sudovulnsbypass>
+- [ ] Sudo Buffer Overflow <https://tryhackme.com/room/sudovulnsbof>
+- [ ] Windows Privesc Arena <https://tryhackme.com/room/windowsprivescarena>
+- [ ] Linux Privesc Arena <https://tryhackme.com/room/linuxprivescarena>
+- [ ] Windows Privesc <https://tryhackme.com/room/windows10privesc>
+- [ ] Blaster <https://tryhackme.com/room/blaster>
+- [ ] Ignite <https://tryhackme.com/room/ignite>
+- [ ] Kenobi <https://tryhackme.com/room/kenobi>
+- [ ] Capture the flag <https://tryhackme.com/room/c4ptur3th3fl4g>
+- [ ] Pickle Rick <https://tryhackme.com/room/picklerick>
+
+# Level 8 - CTF practice
+- [ ] Post Exploitation Basics <https://tryhackme.com/room/postexploit>
+- [ ] Inclusion <https://tryhackme.com/room/inclusion>
+- [ ] Dogcat <https://tryhackme.com/room/dogcat>
+- [ ] LFI basics <https://tryhackme.com/room/lfibasics>
+- [ ] Buffer Overflow Prep <https://tryhackme.com/room/bufferoverflowprep>
+- [ ] Overpass <https://tryhackme.com/room/overpass>
+- [ ] Break out the cage <https://tryhackme.com/room/breakoutthecage1>
+- [ ] Lian Yu <https://tryhackme.com/room/lianyu>
+
+# Level 9 - Windows
+- [ ] Attacktive Directory <https://tryhackme.com/room/attacktivedirectory>
+- [ ] Retro <https://tryhackme.com/room/retro>
+- [ ] Blue Print <https://tryhackme.com/room/blueprint>
+- [ ] Anthem <https://tryhackme.com/room/anthem>
+- [ ] Relevant <https://tryhackme.com/room/relevant>
+```
+
+Want more guided content but don't want to pay?
+
+-   Advent of Cyber Year 1 [](https://tryhackme.com/room/25daysofchristmas)[https://tryhackme.com/room/25daysofchristmas](https://tryhackme.com/room/25daysofchristmas)
+-   Advent of Cyber Year 2 [](https://tryhackme.com/room/adventofcyber2)[https://tryhackme.com/room/adventofcyber2](https://tryhackme.com/room/adventofcyber2)
+-   Owasp Top 10 [](https://tryhackme.com/room/owasptop10)[https://tryhackme.com/room/owasptop10](https://tryhackme.com/room/owasptop10)
