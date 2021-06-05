@@ -4,7 +4,7 @@
 
 A collection of awesome platforms, blogs, documents, books, resources and cool stuff about security 
 
- While this repository is still a work in progress , he goal is to build a categorized community-driven collection of very well-known resources.
+ While this repository is still a work in progress , the goal is to build a categorized community-driven collection of very well-known resources.
 
 #  All the good stuff in one place
 
