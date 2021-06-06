@@ -117,6 +117,8 @@ We've gathered some useful resources to get your started on your bug bounty jour
   *  [awesome-security](https://github.com/sbilly/awesome-security)
   *  [infosec-resources](https://github.com/pascalschulz/Infosec-Resources)
   *  https://github.com/archanchoudhury/Davy-Jones-Locker
+  *   [Everything about web application firewalls (WAFs)](https://github.com/0xInfection/Awesome-WAF)
+  
   
   
   
