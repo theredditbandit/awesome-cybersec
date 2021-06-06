@@ -31,7 +31,6 @@ A collection of awesome platforms, blogs, documents, books, resources and cool s
  * [https://www.pentesteracademy.com/pricing](https://www.pentesteracademy.com/pricing)
  * [https://www.offensive-security.com/labs/individual/](https://www.offensive-security.com/labs/individual/)
  * [https://www.vulnhub.com/](https://www.vulnhub.com/)
- * [https://pentestbox.org/](https://pentestbox.org/)
  * https://hacking-lab.com/
  * [https://scs.hacking-lab.com/](https://scs.hacking-lab.com/)
  * https://opensecuritytraining.info/
@@ -150,7 +149,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
 
 ## Resources
 *  https://startupstash.com/cybersecurity-resources/
-
+*  [https://pentestbox.org/](https://pentestbox.org/)
 *  https://threatexpress.com/redteaming/resources/
 *  [Reverse enginering](https://www.infosecinstitute.com/skills/learning-paths/reverse-engineering/)
 *  [https://ippsec.rocks/?#](https://ippsec.rocks/?#)  
