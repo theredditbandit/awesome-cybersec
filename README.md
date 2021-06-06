@@ -57,7 +57,7 @@ A collection of awesome platforms, blogs, documents, books, resources and cool s
 - learning how various stacks function seems to be an important aspect of bug bounty hunting , so you need to learn at least one of MERN or LAMP or whatever.
 You can learn the MERN Stack by building your own Yelp-like restaurant review site. MERN stands for MongoDB + Express + React + Node.js. Then in the second half of the course, you'll learn how to swap out your Node.js/Express back end in favor of Serverless Architecture. (3 hour YouTube course): [https://www.freecodecamp.org/news/create-a-mern-stack-app-with-a-serverless-backend/](https://www.freecodecamp.org/news/create-a-mern-stack-app-with-a-serverless-backend/)
 
-#### Rsources from the hacker101 discord server
+#### Resources from the hacker101 discord server
 **How to get started with hacking and bug bounties?** 
 We've gathered some useful resources to get your started on your bug bounty journey! 
 - [**Guide to learn hacking**](https://www.youtube.com/watch?v=2TofunAI6fU "https://www.youtube.com/watch?v=2TofunAI6fU") 
