@@ -53,6 +53,7 @@ A collection of awesome platforms, blogs, documents, books, resources and cool s
 - [https://owasp.org/www-project-webgoat/](https://owasp.org/www-project-webgoat/)
 - [Resources & Disclosed Reports](https://github.com/HolyBugx/HolyTips/tree/main/Resources)
 
+
 - learning how various stacks function seems to be an important aspect of bug bounty hunting , so you need to learn at least one of MERN or LAMP or whatever.
 You can learn the MERN Stack by building your own Yelp-like restaurant review site. MERN stands for MongoDB + Express + React + Node.js. Then in the second half of the course, you'll learn how to swap out your Node.js/Express back end in favor of Serverless Architecture. (3 hour YouTube course): [https://www.freecodecamp.org/news/create-a-mern-stack-app-with-a-serverless-backend/](https://www.freecodecamp.org/news/create-a-mern-stack-app-with-a-serverless-backend/)
 
@@ -85,6 +86,8 @@ We've gathered some useful resources to get your started on your bug bounty jour
   
   ## Tools
 - [Pwncat](https://github.com/calebstewart/pwncat) is a post-exploitation platform ~~for Linux targets~~. It started out as a wrapper around basic bind and reverse shells and has grown from there. It streamlines common red team operations while staging code from your attacker machine, not the target.
+- [Automatic bypass (brute force) waf](https://github.com/3xp10it/xwaf)
+- [DFIR-Tools](https://github.com/archanchoudhury/DFIR-Tools)
 
   
   
@@ -100,6 +103,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
   
   ## Github
   * [Malware Analysis Course](https://github.com/hasherezade/malware_training_vol1)
+  * [Malware-IR-TH-TI-Resources](https://github.com/ShilpeshTrivedi/Malware-IR-TH-TI-Resources/blob/main/Malware-IR-TH-TI-Resources.md#malware-ir-th-ti-resources)
   * [Red Team tactics and techniques](https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques)
   * [Red Teaming toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit)
   * [Red Team](https://github.com/BankSecurity/Red_Team)
@@ -111,6 +115,9 @@ We've gathered some useful resources to get your started on your bug bounty jour
   * [awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
   *  [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
   *  [awesome-security](https://github.com/sbilly/awesome-security)
+  *  [infosec-resources](https://github.com/pascalschulz/Infosec-Resources)
+  *  https://github.com/archanchoudhury/Davy-Jones-Locker
+  
   
   
   
@@ -215,6 +222,20 @@ We've gathered some useful resources to get your started on your bug bounty jour
 [Tony Gaddis Early Objects](http://instructor.sdu.edu.kz/~bakhyt/CPP/suggested%20books/Starting%20out%20with%20C++.pdf)
 
 
+
+  ## Misclaneous links
+  
+  * https://thdrksdhckr.blogspot.com/2021/01/post-list-of-all-courses-on-thdrksdhckr.html
+  
+  * https://freetraining.dfirdiva.com/
+  * [https://osintframework.com/](https://osintframework.com/)
+ 
+  *  [You'll find majority of the books you're looking for here](https://b-ok.global/)
+  *  [ssh-audit](https://github.com/jtesta/ssh-audit)
+  *  [Secure your linux install](https://www.reddit.com/r/linux/comments/ns7r7o/a_complete_yet_beginner_friendly_guide_on_how_to/)
+  *  [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
+
+
 ## Youtube channels 
 Pwnfunction  
   
@@ -278,19 +299,6 @@ Alhz4r3d
 
 [Hacker101](https://discord.gg/HuwdMBJ2WS)
 
-
-
-
-  ## Misclaneous links
-  
-  * https://thdrksdhckr.blogspot.com/2021/01/post-list-of-all-courses-on-thdrksdhckr.html
-  
-  * https://freetraining.dfirdiva.com/
-  * [https://osintframework.com/](https://osintframework.com/)
- 
-  *  [You'll find majority of the books you're looking for here](https://b-ok.global/)
-  *  [ssh-audit](https://github.com/jtesta/ssh-audit)
-  *  [Secure your linux install](https://www.reddit.com/r/linux/comments/ns7r7o/a_complete_yet_beginner_friendly_guide_on_how_to/)
   
 
 
