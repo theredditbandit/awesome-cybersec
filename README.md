@@ -17,7 +17,7 @@ A collection of awesome platforms, blogs, documents, books, resources and cool s
  * [Range force](https://portal.rangeforce.com/courses)
  * [HTB](https://www.hackthebox.eu/)
  * [Tryhackme](https://tryhackme.com/)
- * Check out the Tryhackme-FREE PATH at the end of the document 
+ * [Check out the Tryhackme-FREE PATH at the end of the document](https://github.com/theredditbandit/awesome-cybersec/blob/main/README.md#tryhackme-free-path) 
  * [Blue team academy](https://app.letsdefend.io/academy/)
  * [Kali revealed](https://kali.training/)
  * [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/)
