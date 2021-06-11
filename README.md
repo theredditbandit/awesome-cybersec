@@ -68,7 +68,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
 -   [**Stök**](https://www.youtube.com/c/STOKfredrik "https://www.youtube.com/c/STOKfredrik")
 -    [**InsiderPhD**](https://www.youtube.com/c/InsiderPhD "https://www.youtube.com/c/InsiderPhD") 
 -    [ **Series for new bug hunters**](https://www.youtube.com/playlist?list=PLbyncTkpno5FAC0DJYuJrEqHSMdudEffw "https://www.youtube.com/playlist?list=PLbyncTkpno5FAC0DJYuJrEqHSMdudEffw") 
--   [ **Jhaddix** ](https://www.youtube.com/c/jhaddix "https://www.youtube.com/c/jhaddix") -
+-   [ **Jhaddix** ](https://www.youtube.com/c/jhaddix "https://www.youtube.com/c/jhaddix") 
 ##### Posts from Hacker101 members on how to get started hacking 
  -  [**zonduu**](https://medium.com/@zonduu/bug-bounty-beginners-guide-683e9d567b9f "https://medium.com/@zonduu/bug-bounty-beginners-guide-683e9d567b9f") 
  -   [**p4nda**](https://enfinlay.github.io/bugbounty/2020/08/15/so-you-wanna-hack.html "https://enfinlay.github.io/bugbounty/2020/08/15/so-you-wanna-hack.html")
@@ -114,12 +114,12 @@ We've gathered some useful resources to get your started on your bug bounty jour
   * [Red-team](https://github.com/Sorsnce/red-team)
   * [Red team diaries](https://github.com/ihebski/A-Red-Teamer-diaries)
   * [awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
-  *  [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
-  *  [awesome-security](https://github.com/sbilly/awesome-security)
-  *  [infosec-resources](https://github.com/pascalschulz/Infosec-Resources)
-  *  https://github.com/archanchoudhury/Davy-Jones-Locker
-  *   [Everything about web application firewalls (WAFs)](https://github.com/0xInfection/Awesome-WAF)
-  *    [awesome-hacking](https://github.com/carpedm20/awesome-hacking)
+  * [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
+  * [awesome-security](https://github.com/sbilly/awesome-security)
+  * [infosec-resources](https://github.com/pascalschulz/Infosec-Resources)
+  * https://github.com/archanchoudhury/Davy-Jones-Locker
+  * [Everything about web application firewalls (WAFs)](https://github.com/0xInfection/Awesome-WAF)
+  * [awesome-hacking](https://github.com/carpedm20/awesome-hacking)
   
   
   
@@ -268,37 +268,37 @@ Alhz4r3d
 
 
 ## Discord servers
-[the cyber mentor]([https://discord.gg/tcm](https://discord.gg/tcm))  
+[the cyber mentor](https://discord.gg/tcm)  
   
-[the many hats club]([https://discord.gg/infosec](https://discord.gg/infosec))  
+[the many hats club](https://discord.gg/infosec)  
   
-[infosec prep ]([https://discord.gg/infosecprep](https://discord.gg/infosecprep))  
+[infosec prep ](https://discord.gg/infosecprep)  
   
-[certification station]([https://discord.gg/certstation](https://discord.gg/certstation))  
+[certification station](https://discord.gg/certstation) 
   
-[network Chuck]([https://discord.gg/networkchuck](https://discord.gg/networkchuck))  
+[network Chuck](https://discord.gg/networkchuck)  
   
-[nahmsec]([https://discord.gg/xd75Stsuxk](https://discord.gg/xd75Stsuxk))  
+[nahmsec](https://discord.gg/xd75Stsuxk)  
   
-[bounty hunters]([https://discord.gg/bugbounty](https://discord.gg/bugbounty))  
+[bounty hunters](https://discord.gg/bugbounty)  
   
-[The Alh4z-R3d Team]([https://discord.gg/thealh4zr3dteam](https://discord.gg/thealh4zr3dteam))  
+[The Alh4z-R3d Team](https://discord.gg/thealh4zr3dteam)  
   
-[hack the box]([https://discord.gg/hackthebox](https://discord.gg/hackthebox))  
+[hack the box](https://discord.gg/hackthebox)  
   
-[tryhackme]([https://discord.gg/tryhackme](https://discord.gg/tryhackme))  
+[tryhackme](https://discord.gg/tryhackme)  
   
-[hack this site]([https://discord.gg/ETm3Q8SSht](https://discord.gg/ETm3Q8SSht))  
+[hack this site](https://discord.gg/ETm3Q8SSht)  
   
-[PG (proving grounds) ]([https://discord.gg/6neBxaGjHD](https://discord.gg/6neBxaGjHD))  
+[PG (proving grounds) ](https://discord.gg/6neBxaGjHD)  
   
-[Getting started in security ]([https://discord.gg/dnEcAqZn4x](https://discord.gg/dnEcAqZn4x))  
+[Getting started in security ](https://discord.gg/dnEcAqZn4x) 
   
-[INE Unofficial server ]([https://discord.gg/XGVaBeapXQ](https://discord.gg/XGVaBeapXQ))  
+[INE Unofficial server ](https://discord.gg/XGVaBeapXQ) 
   
-[Offsec official server]([https://discord.gg/offsec](https://discord.gg/offsec))  
+[Offsec official server](https://discord.gg/offsec)  
   
-[ctf learn]([https://discord.gg/Susw824A2T](https://discord.gg/Susw824A2T)) 
+[ctf learn](https://discord.gg/Susw824A2T)
 
 [Hacker101](https://discord.gg/HuwdMBJ2WS)
 
