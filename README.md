@@ -91,6 +91,10 @@ We've gathered some useful resources to get your started on your bug bounty jour
 - [Automatic bypass (brute force) waf](https://github.com/3xp10it/xwaf)
 - [DFIR-Tools](https://github.com/archanchoudhury/DFIR-Tools)
 - [https://pentestbox.org/](https://pentestbox.org/)
+- [Notes , tons of notes](https://enotes.nickapic.com/)
+-  [Writehat : A pentest reporting tool written in Python. Free yourself from Microsoft Word.](https://github.com/blacklanternsecurity/writehat)
+-  [OSINT4ALL](https://start.me/p/L1rEYQ/osint4all)
+-   [Shadrak : Shadrak is a script to generate decompression bomb in various formats.](https://gitlab.com/brn1337/shadrak)
 
 
   
@@ -122,6 +126,11 @@ We've gathered some useful resources to get your started on your bug bounty jour
   * https://github.com/archanchoudhury/Davy-Jones-Locker
   * [Everything about web application firewalls (WAFs)](https://github.com/0xInfection/Awesome-WAF)
   * [awesome-hacking](https://github.com/carpedm20/awesome-hacking)
+  * [BARF: Binary analysis and reverse engineering framework](https://github.com/programa-stic/barf-project)
+  * [Automatic Linux privesc via exploitation of low-hanging fruit](https://github.com/liamg/traitor)
+  * [CTF-KATANA](https://github.com/JohnHammond/ctf-katana)
+  * [Active-directory-exploitation-cheatsheet](https://github.com/fuzz-security/Active-Directory-Exploitation-Cheat-Sheet)
+  
   
   
   
@@ -140,7 +149,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
    * [https://www.hackingarticles.in/](https://www.hackingarticles.in/)  
    * [https://www.hackingtutorials.org/](https://www.hackingtutorials.org/) 
    * [https://www.hacking-tutorial.com/](https://www.hacking-tutorial.com/) 
-   * [https://www.netsecfocus.com/oscp/2021/05/06/The\_Journey\_to\_Try\_Harder-\_TJnull-s\_Preparation\_Guide\_for\_PEN-200\_PWK\_OSCP\_2.0.html](https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html)   
+   *  [The Journey to Try Harder- TJnull's Preparation Guide for PEN-200 PWK OSCP 2.0](https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html)   
    * https://hacklido.com/
    * [What is a block cypher](https://www.freecodecamp.org/news/what-is-a-block-cipher/)
    * [freecodecamp blog](https://www.freecodecamp.org/news/)
