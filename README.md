@@ -37,6 +37,7 @@ A collection of awesome platforms, blogs, documents, books, resources and cool s
  * https://opensecuritytraining.info/
  * https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/
  * [Getting started with OSINT](https://www.reddit.com/r/OSINT/comments/e78he1/osint_for_beginners_part_1_introduction/?utm_source=share&utm_medium=web2x&context=3)
+ * [Wordpress boxes on vulnhub](https://www.reddit.com/user/therealsavalon/comments/o3cn1l/wordpress_boxes_on_vulnhub/?utm_source=share&utm_medium=web2x&context=3)
  
 
 ### WebApp/Bugbounty
@@ -54,6 +55,11 @@ A collection of awesome platforms, blogs, documents, books, resources and cool s
 - [Resources & Disclosed Reports](https://github.com/HolyBugx/HolyTips/tree/main/Resources)
 - [Bug-bounty-roadmaps](https://github.com/1ndianl33t/Bug-Bounty-Roadmaps)
 - [Bug-hunting-methodologies](https://github.com/IamLucif3r/Bug-Hunting)
+- [Open Source Bug Bounty Guide - Methodology, Tools, Resources](https://www.youtube.com/watch?v=BHIGJQdId3k)
+- [Thug-bounty](https://start.me/p/vjEPvb/thug-bounty)
+- [Bugbounty-Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups)
+- [The Best Bug Bounty Recon Methodology](https://securib.ee/beelog/the-best-bug-bounty-recon-methodology/)
+- [Pentesting web checklist](https://pentestbook.six2dez.com/others/web-checklist/)
 
 
 - learning how various stacks function seems to be an important aspect of bug bounty hunting , so you need to learn at least one of MERN or LAMP or whatever.
@@ -81,9 +87,6 @@ We've gathered some useful resources to get your started on your bug bounty jour
  -  [ **dee-see**'s resources for Android Hacking](https://blog.deesee.xyz/android/security/2020/01/13/android-application-hacking-resources.html "https://blog.deesee.xyz/android/security/2020/01/13/android-application-hacking-resources.html") 
  -  [   **hacker101 videos**](https://www.hacker101.com/videos "https://www.hacker101.com/videos")
 
-#### Free and opensource alrernative to burp
-- [https://www.reddit.com/r/bugbounty/comments/my3625/open\_source\_alternative\_to\_burpsuite/?utm\_source=share&utm\_medium=ios\_app&utm\_name=iossmf](https://www.reddit.com/r/bugbounty/comments/my3625/open_source_alternative_to_burpsuite/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
--   Owasp zap [](https://www.zaproxy.org/)[https://www.zaproxy.org/](https://www.zaproxy.org/)
   
   
   ## Tools
@@ -92,9 +95,16 @@ We've gathered some useful resources to get your started on your bug bounty jour
 - [DFIR-Tools](https://github.com/archanchoudhury/DFIR-Tools)
 - [https://pentestbox.org/](https://pentestbox.org/)
 - [Notes , tons of notes](https://enotes.nickapic.com/)
--  [Writehat : A pentest reporting tool written in Python. Free yourself from Microsoft Word.](https://github.com/blacklanternsecurity/writehat)
--  [OSINT4ALL](https://start.me/p/L1rEYQ/osint4all)
--   [Shadrak : Shadrak is a script to generate decompression bomb in various formats.](https://gitlab.com/brn1337/shadrak)
+- [Writehat : A pentest reporting tool written in Python. Free yourself from Microsoft Word.](https://github.com/blacklanternsecurity/writehat)
+- [OSINT4ALL](https://start.me/p/L1rEYQ/osint4all)
+- [Shadrak : Shadrak is a script to generate decompression bomb in various formats.](https://gitlab.com/brn1337/shadrak)
+- [Fish: a phishing tool](https://github.com/aarav2you/Fish/)
+- [Owasp Zap](https://www.zaproxy.org/), a free and opensource burpsuite alternative
+- [Pimpmykai](https://github.com/Dewalt-arch/pimpmykali) 
+- [Name that hash](https://github.com/HashPals/Name-That-Hash)
+- [Burp Automator(burpa) - A Burp Suite Automation Tool.](https://github.com/tristanlatr/burpa)
+
+
 
 
   
@@ -130,6 +140,8 @@ We've gathered some useful resources to get your started on your bug bounty jour
   * [Automatic Linux privesc via exploitation of low-hanging fruit](https://github.com/liamg/traitor)
   * [CTF-KATANA](https://github.com/JohnHammond/ctf-katana)
   * [Active-directory-exploitation-cheatsheet](https://github.com/fuzz-security/Active-Directory-Exploitation-Cheat-Sheet)
+  * [The book of secret knowledge : A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.](https://github.com/trimstray/the-book-of-secret-knowledge)
+  * [PyWhat : identify anything](https://github.com/bee-san/pyWhat)
   
   
   
@@ -153,6 +165,11 @@ We've gathered some useful resources to get your started on your bug bounty jour
    * https://hacklido.com/
    * [What is a block cypher](https://www.freecodecamp.org/news/what-is-a-block-cipher/)
    * [freecodecamp blog](https://www.freecodecamp.org/news/)
+   * [Redhuntlabs blog](https://redhuntlabs.com/blog)
+   * [Hackthebox blog](https://www.hackthebox.eu/blog)
+   * [Tryhackme blog](https://blog.tryhackme.com/)
+
+
 ## Paid training 
   * [cybersec labs](https://www.cyberseclabs.co.uk/)
   * [Virtyal Hacking Labs](https://www.virtualhackinglabs.com/)
@@ -162,15 +179,18 @@ We've gathered some useful resources to get your started on your bug bounty jour
 
 
 ## Resources
-*  https://startupstash.com/cybersecurity-resources/
-*  https://threatexpress.com/redteaming/resources/
-*  [Reverse enginering](https://www.infosecinstitute.com/skills/learning-paths/reverse-engineering/)
-*  [https://ippsec.rocks/?#](https://ippsec.rocks/?#)  
-*  [https://liveoverflow.com/](https://liveoverflow.com/)
+* https://startupstash.com/cybersecurity-resources/
+* https://threatexpress.com/redteaming/resources/
+* [Reverse enginering](https://www.infosecinstitute.com/skills/learning-paths/reverse-engineering/)
+* [https://ippsec.rocks/?#](https://ippsec.rocks/?#)  
+* [https://liveoverflow.com/](https://liveoverflow.com/)
+* [Learn vim](https://www.vim.so/) or [Emacs](https://www.emacswiki.org/emacs/LearningEmacs) i don't care , i'm not trying to start a war
+* [Python Cybersecurity - Build your own tools](https://www.reddit.com/r/Python/comments/o0dzk6/python_cybersecurity_build_your_own_tools/)
+* [Osint framework](https://osintframework.com/) 
 
 
 ## Programing resources 
-**General**
+### **General**
 
 [Flight rules for Git](https://github.com/k88hudson/git-flight-rules)
 
@@ -187,7 +207,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
 [Programiz](https://www.programiz.com/) 
 
 
-**Python**
+### **Python**
 
 [Ultimate Python study guide](https://github.com/huangsam/ultimate-python)
 
@@ -205,7 +225,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
 [Practicepython.org](http://www.practicepython.org/)
 
 
-**Javascript**
+### **Javascript**
 
 [The Modern JavaScript Tutorial](https://javascript.info/)
 
@@ -215,7 +235,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
 
 [Learn and practice modern JavaScript](https://learnjavascript.online/)
 
-**Java**
+### **Java**
 
 [A Hitchhiker's Guide to Containerizing (Spring Boot) Java Apps](https://blog.frankel.ch/hitchhiker-guide-containerizing-java-apps/)
 
@@ -229,7 +249,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
 
 [Java Modules Cheat Sheet](https://nipafx.dev/build-modules/)
 
-**C++**
+### **C++**
 
 [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 
@@ -241,43 +261,42 @@ We've gathered some useful resources to get your started on your bug bounty jour
 
   ## Misclaneous links
   
-  * https://thdrksdhckr.blogspot.com/2021/01/post-list-of-all-courses-on-thdrksdhckr.html
   
   * https://freetraining.dfirdiva.com/
-  * [https://osintframework.com/](https://osintframework.com/)
+ 
  
   *  [You'll find majority of the books you're looking for here](https://b-ok.global/)
   *  [ssh-audit](https://github.com/jtesta/ssh-audit)
   *  [Secure your linux install](https://www.reddit.com/r/linux/comments/ns7r7o/a_complete_yet_beginner_friendly_guide_on_how_to/)
   *  [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
+  *  [Twitter-geolocate](https://github.com/davidkowalk/twitter_geolocate)
 
 
 ## Youtube channels 
-Pwnfunction  
+[Pwnfunction](https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A)  
   
-zSecurity  
+[zSecurity](https://www.youtube.com/user/zaidsabeeh) 
   
-HackerSploit  
+[HckerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) 
   
-nullbyte  
+[Nullbyte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
+ 
+[LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
   
-CSECTutorials  
+[John hammond](https://www.youtube.com/user/RootOfTheNull)
+
+[The cyber mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
   
-LiveOverFlow  
+[Network Chuck](https://www.youtube.com/user/NetworkChuck)
   
-Jhon Hammond  
+[Ippsec  ](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
   
-NetworkChuck  
+[Insiderphd ](https://www.youtube.com/user/RapidBug) 
   
-The cyber mentor  
+[David bomball  ](https://www.youtube.com/user/ConfigTerm)
   
-Ippsec  
-  
-Insiderphd  
-  
-David bomball  
-  
-Alhz4r3d  
+[Alhz4r3d  ](https://www.youtube.com/channel/UCz-Z-d2VPQXHGkch0-_KovA)
+
 
 
 ## Discord servers
