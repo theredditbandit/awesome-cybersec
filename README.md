@@ -18,7 +18,6 @@ A collection of awesome platforms, blogs, documents, books, resources and cool s
  * [Range force](https://portal.rangeforce.com/courses)
  * [HTB](https://www.hackthebox.eu/)
  * [Tryhackme](https://tryhackme.com/)
- * [Check out the Tryhackme-FREE PATH at the end of the document](https://github.com/theredditbandit/awesome-cybersec/blob/main/README.md#tryhackme-free-path) 
  * [Blue team academy](https://app.letsdefend.io/academy/)
  * [Kali revealed](https://kali.training/)
  * [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/)
@@ -27,7 +26,7 @@ A collection of awesome platforms, blogs, documents, books, resources and cool s
  * [https://riptutorial.com/bash](https://riptutorial.com/bash)  
  * https://www.hackerrank.com/domains/shell
  * [https://pentesterlab.com/](https://pentesterlab.com/)
- * [https://www.pentesteracademy.com/pricing](https://www.pentesteracademy.com/pricing)
+ * [https://www.pentesteracademy.com/](https://www.pentesteracademy.com/)
  * [https://www.offensive-security.com/labs/individual/](https://www.offensive-security.com/labs/individual/)
  * [https://www.vulnhub.com/](https://www.vulnhub.com/)
  * https://hacking-lab.com/
