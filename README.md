@@ -35,6 +35,8 @@ A collection of awesome platforms, blogs, documents, books, resources and cool s
  * https://opensecuritytraining.info/
  * https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/
  * [Wordpress boxes on vulnhub](https://www.reddit.com/user/therealsavalon/comments/o3cn1l/wordpress_boxes_on_vulnhub/?utm_source=share&utm_medium=web2x&context=3)
+ * [Malware Noob2Ninja course](https://www.youtube.com/watch?v=GE_aSVq8ZnQ&list=PLiFO-R_BI-kAqDPqtnOq2n70mtAZ6xg5N)
+ 
  
 
 ### WebApp/Bugbounty
