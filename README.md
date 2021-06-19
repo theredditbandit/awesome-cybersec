@@ -24,8 +24,6 @@ A collection of awesome platforms, blogs, documents, books, resources and cool s
  * [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/)
  * https://platform.mosse-institute.com/#/dashboard
  * https://infosec4tc.teachable.com/p/cism2020
- * [https://ohmygit.org/](https://ohmygit.org/)  
- * [https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/](https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/)  
  * [https://riptutorial.com/bash](https://riptutorial.com/bash)  
  * https://www.hackerrank.com/domains/shell
  * [https://pentesterlab.com/](https://pentesterlab.com/)
@@ -36,7 +34,6 @@ A collection of awesome platforms, blogs, documents, books, resources and cool s
  * [https://scs.hacking-lab.com/](https://scs.hacking-lab.com/)
  * https://opensecuritytraining.info/
  * https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/
- * [Getting started with OSINT](https://www.reddit.com/r/OSINT/comments/e78he1/osint_for_beginners_part_1_introduction/?utm_source=share&utm_medium=web2x&context=3)
  * [Wordpress boxes on vulnhub](https://www.reddit.com/user/therealsavalon/comments/o3cn1l/wordpress_boxes_on_vulnhub/?utm_source=share&utm_medium=web2x&context=3)
  
 
@@ -186,13 +183,19 @@ We've gathered some useful resources to get your started on your bug bounty jour
 * [https://liveoverflow.com/](https://liveoverflow.com/)
 * [Learn vim](https://www.vim.so/) or [Emacs](https://www.emacswiki.org/emacs/LearningEmacs) i don't care , i'm not trying to start a war
 * [Python Cybersecurity - Build your own tools](https://www.reddit.com/r/Python/comments/o0dzk6/python_cybersecurity_build_your_own_tools/)
-* [Osint framework](https://osintframework.com/) 
+* [Osint framework](https://osintframework.com/)
+* [Getting started with OSINT](https://www.reddit.com/r/OSINT/comments/e78he1/osint_for_beginners_part_1_introduction/?utm_source=share&utm_medium=web2x&context=3) 
 
 
 ## Programing resources 
-### **General**
+
+### **Learn git**
 
 [Flight rules for Git](https://github.com/k88hudson/git-flight-rules)
+[https://ohmygit.org/](https://ohmygit.org/)  
+[https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/](https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/)  
+
+### **General**
 
 [Comprehensive Guide to Learn CS Online](https://qvault.io/2020/11/18/comprehensive-guide-to-learn-computer-science-online/)
 
