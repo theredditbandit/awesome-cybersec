@@ -29,12 +29,19 @@ A collection of awesome platforms, blogs, documents, books, resources and cool s
  * [https://www.pentesteracademy.com/](https://www.pentesteracademy.com/)
  * [https://www.offensive-security.com/labs/individual/](https://www.offensive-security.com/labs/individual/)
  * [https://www.vulnhub.com/](https://www.vulnhub.com/)
+ * [Google doc : vulnhub oscp like vm's list](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=0)
+ * [Wordpress boxes on vulnhub](https://www.reddit.com/user/therealsavalon/comments/o3cn1l/wordpress_boxes_on_vulnhub/?utm_source=share&utm_medium=web2x&context=3)
+ * [Vulnhub CTF writeups](https://github.com/Ignitetechnologies/Vulnhub-CTF-Writeups)
+ * [Linux Privilige escalation Cheatsheet](https://github.com/Ignitetechnologies/Linux-Privilege-Escalation)
+ * [Privilige escalation](https://github.com/Ignitetechnologies/Privilege-Escalation)
  * https://hacking-lab.com/
  * [https://scs.hacking-lab.com/](https://scs.hacking-lab.com/)
- * https://opensecuritytraining.info/
- * https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/
- * [Wordpress boxes on vulnhub](https://www.reddit.com/user/therealsavalon/comments/o3cn1l/wordpress_boxes_on_vulnhub/?utm_source=share&utm_medium=web2x&context=3)
  * [Malware Noob2Ninja course](https://www.youtube.com/watch?v=GE_aSVq8ZnQ&list=PLiFO-R_BI-kAqDPqtnOq2n70mtAZ6xg5N)
+ * [n3t2.3c](https://nets.ec/Main_Page)
+ * [Hacking-cisco](https://hackingcisco.blogspot.com/)
+ * [Open security training](https://opensecuritytraining.info/Training.html)
+ * [Pentest standard](http://www.pentest-standard.org/index.php/Main_Page)
+ * [Security-tube](http://www.securitytube.net/)
  
  
 
@@ -58,6 +65,8 @@ A collection of awesome platforms, blogs, documents, books, resources and cool s
 - [Bugbounty-Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups)
 - [The Best Bug Bounty Recon Methodology](https://securib.ee/beelog/the-best-bug-bounty-recon-methodology/)
 - [Pentesting web checklist](https://pentestbook.six2dez.com/others/web-checklist/)
+- [Web-application cheatsheet](https://github.com/Ignitetechnologies/Web-Application-Cheatsheet)
+
 
 
 - learning how various stacks function seems to be an important aspect of bug bounty hunting , so you need to learn at least one of MERN or LAMP or whatever.
@@ -101,7 +110,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
 - [Pimpmykai](https://github.com/Dewalt-arch/pimpmykali) 
 - [Name that hash](https://github.com/HashPals/Name-That-Hash)
 - [Burp Automator(burpa) - A Burp Suite Automation Tool.](https://github.com/tristanlatr/burpa)
-
+- [The harvester](https://github.com/laramies/theHarvester)
 
 
 
@@ -115,7 +124,20 @@ We've gathered some useful resources to get your started on your bug bounty jour
  *  [Try2Hackme](https://try2hack.me/)
  *  [Hackthissite](https://www.hackthissite.org/)
  *  [https://overthewire.org/wargames/](https://overthewire.org/wargames/)  
- *  [https://underthewire.tech/wargames](https://underthewire.tech/wargames)  
+ *  [https://underthewire.tech/wargames](https://underthewire.tech/wargames)
+ *  [Pwnable.tw](https://pwnable.tw/challenge/)
+ *  [Pwnable.kr](http://pwnable.kr/play.php)
+ *  [Root-me](https://www.root-me.org/?lang=en)  
+ *  [Smash the stack](http://smashthestack.org/wargames.html)
+ *  [Cryptohack.org](https://cryptohack.org/)
+ *  [PicoCTF](https://www.picoctf.org/)
+ *  [CMDchallenge](https://cmdchallenge.com/)
+ *  [Defend the web](https://defendtheweb.net/dashboard)
+ *  [ChaosVPN](https://wiki.hamburg.ccc.de/ChaosVPN)
+ *  [PentestIT](https://lab.pentestit.ru/)
+ *  [Overthewire-Warzone](https://overthewire.org/warzone/)
+ *  [CTF Difficulty cheatsheet (Vulnhub)](https://github.com/Ignitetechnologies/CTF-Difficulty)
+ 
   
   ## Github resources
   * [Malware Analysis Course](https://github.com/hasherezade/malware_training_vol1)
@@ -140,6 +162,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
   * [Active-directory-exploitation-cheatsheet](https://github.com/fuzz-security/Active-Directory-Exploitation-Cheat-Sheet)
   * [The book of secret knowledge : A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.](https://github.com/trimstray/the-book-of-secret-knowledge)
   * [PyWhat : identify anything](https://github.com/bee-san/pyWhat)
+  * [OSEE prep resources](https://github.com/dhn/OSEE)
   
   
   
@@ -166,6 +189,8 @@ We've gathered some useful resources to get your started on your bug bounty jour
    * [Redhuntlabs blog](https://redhuntlabs.com/blog)
    * [Hackthebox blog](https://www.hackthebox.eu/blog)
    * [Tryhackme blog](https://blog.tryhackme.com/)
+   * [Start in infosec](https://malicious.link/start/)
+   * [Ethical Hacking With Hack The Box :A free book for getting started in Ethical Hacking](https://book.ethicalhackinghtb.xyz/)
 
 
 ## Paid training 
@@ -186,6 +211,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
 * [Python Cybersecurity - Build your own tools](https://www.reddit.com/r/Python/comments/o0dzk6/python_cybersecurity_build_your_own_tools/)
 * [Osint framework](https://osintframework.com/)
 * [Getting started with OSINT](https://www.reddit.com/r/OSINT/comments/e78he1/osint_for_beginners_part_1_introduction/?utm_source=share&utm_medium=web2x&context=3) 
+* [Vulnhub resources](https://www.vulnhub.com/resources/)
 
 
 ## Programing resources 
@@ -209,6 +235,15 @@ We've gathered some useful resources to get your started on your bug bounty jour
 [freecodecamp](https://www.freecodecamp.org/)
 
 [Programiz](https://www.programiz.com/) 
+
+[Codewars](https://www.codewars.com/)
+
+[Code academy](https://www.codecademy.com/)
+
+[Fullstackopen : Deep Dive Into Modern Web Development](https://fullstackopen.com/en/)
+
+
+[Learn {Python,Java,C,JavaScript,PHP,Shell,C#}](https://www.learn-c.org/)
 
 
 ### **Python**
@@ -260,6 +295,10 @@ We've gathered some useful resources to get your started on your bug bounty jour
 [Linear-cpp](https://github.com/jesyspa/linear-cpp)
 
 [Tony Gaddis Early Objects](http://instructor.sdu.edu.kz/~bakhyt/CPP/suggested%20books/Starting%20out%20with%20C++.pdf)
+
+### **PHP***
+[PHP The right way](https://phptherightway.com/)
+
 
 
 
