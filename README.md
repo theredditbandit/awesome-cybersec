@@ -219,7 +219,9 @@ We've gathered some useful resources to get your started on your bug bounty jour
 ### **Learn git**
 
 [Flight rules for Git](https://github.com/k88hudson/git-flight-rules)
+
 [https://ohmygit.org/](https://ohmygit.org/)  
+
 [https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/](https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/)  
 
 ### **General**
@@ -296,7 +298,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
 
 [Tony Gaddis Early Objects](http://instructor.sdu.edu.kz/~bakhyt/CPP/suggested%20books/Starting%20out%20with%20C++.pdf)
 
-### **PHP***
+### **PHP**
 [PHP The right way](https://phptherightway.com/)
 
 
