@@ -173,7 +173,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
   * [Red Team tactics and techniques](https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques)
   * [Red Teaming toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit)
   * [Red Team](https://github.com/BankSecurity/Red_Team)
-  * [awesome red teaming](https://github.com/an4kein/awesome-red-teaming)
+  * [awesome red teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
   * [Powershell red team](https://github.com/tobor88/PowerShell-Red-Team)
   * [Red Teaming](https://github.com/winterwolf32/Red-teaming)
   * [Red-team](https://github.com/Sorsnce/red-team)
