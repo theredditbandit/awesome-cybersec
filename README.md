@@ -42,6 +42,15 @@ A collection of awesome platforms, blogs, documents, books, resources and cool s
  * [Open security training](https://opensecuritytraining.info/Training.html)
  * [Pentest standard](http://www.pentest-standard.org/index.php/Main_Page)
  * [Security-tube](http://www.securitytube.net/)
+ * [Binary Analysis course](https://maxkersten.nl/binary-analysis-course/)
+ * https://training.zempirians.com/start/here
+ * [Pwncollege](https://pwn.college/) pwn.college is a first-stage education platform for students (and other interested parties) to learn about, and practice, core cybersecurity concepts in a hands-on fashion. It is designed to take a “white belt” in cybersecurity to becoming a “blue belt”, able to approach (simple) CTFs and wargames. The philosophy of pwn.college is “practice makes perfect”.
+ 
+ * [Exploit-exercises.com](https://exploit-exercises.com/)  provides a variety of virtual machines, documentation and challenges that can be used to learn about a variety of computer security issues such as privilege escalation, vulnerability analysis, exploit development, debugging, reverse engineering, and general cyber security issues.
+ 
+ *  [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/)This codelab is built around **Gruyere** /ɡruːˈjɛər/ - a small, cheesy web application that allows its users to publish snippets of text and store assorted files. "Unfortunately," Gruyere has multiple security bugs ranging from cross-site scripting and cross-site request forgery, to information disclosure, denial of service, and remote code execution. The goal of this codelab is to guide you through discovering some of these bugs and learning ways to fix them both in Gruyere and in general.
+ *   [Course materials for Modern Binary Exploitation](https://github.com/RPISEC/MBE)
+ *   [professormesser.com](https://www.professormesser.com/)
  
  
 
@@ -49,7 +58,7 @@ A collection of awesome platforms, blogs, documents, books, resources and cool s
 *  [Web Security Academy](https://portswigger.net/web-security)
 *  [https://owasp.org/www-project-juice-shop/](https://owasp.org/www-project-juice-shop/)
 *  [https://www.bugbountyhunter.com/](https://www.bugbountyhunter.com/) 
-*  [https://www.hacker101.com/](https://www.hacker101.com/)
+*   [hacker101](https://www.hacker101.com/) is a free class for web security. Whether you’re a programmer with an interest in bug bounties or a seasoned security professional, Hacker101 has something to teach you.
 *  [https://www.hacksplaining.com/](https://www.hacksplaining.com/)    
 *  [awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
 - [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
@@ -111,14 +120,14 @@ We've gathered some useful resources to get your started on your bug bounty jour
 - [Name that hash](https://github.com/HashPals/Name-That-Hash)
 - [Burp Automator(burpa) - A Burp Suite Automation Tool.](https://github.com/tristanlatr/burpa)
 - [The harvester](https://github.com/laramies/theHarvester)
-
+- https://technisette.com/p/tools
 
 
   
   
   ## CTF's
- * [https://ctftime.org/](https://ctftime.org/) 
- *   [https://ctf.hackthebox.eu/ctfs](https://ctf.hackthebox.eu/ctfs)
+ *  [https://ctftime.org/](https://ctftime.org/) 
+ *  [https://ctf.hackthebox.eu/ctfs](https://ctf.hackthebox.eu/ctfs)
  *  [https://www.hackthissite.org/](https://www.hackthissite.org/)
  *  [Hack.me](https://hack.me/)
  *  [Try2Hackme](https://try2hack.me/)
@@ -137,6 +146,25 @@ We've gathered some useful resources to get your started on your bug bounty jour
  *  [PentestIT](https://lab.pentestit.ru/)
  *  [Overthewire-Warzone](https://overthewire.org/warzone/)
  *  [CTF Difficulty cheatsheet (Vulnhub)](https://github.com/Ignitetechnologies/CTF-Difficulty)
+ *  [hpwnadventure](https://pwnadventure.com/)
+ *  [ctf.komodosec](http://ctf.komodosec.com/)  
+ *  [counterhack.net](http://counterhack.net/Counter_Hack/Challenges.html)
+ *  [hellboundhackers](https://www.hellboundhackers.org/)
+ *  [ringzer0ctf.com](https://ringzer0ctf.com/challenges)
+ *  [io.netgarage](https://io.netgarage.org/)
+ *  [pwn0.com](https://pwn0.com)
+ *  [w3challs.com](https://w3challs.com/)
+ *  [hax.tor.hu](http://hax.tor.hu/welcome/)
+ *  [reversing.kr](http://reversing.kr/)
+ *  [ctflearn.com](https://ctflearn.com/)
+ *  [microcorruption.com](https://microcorruption.com/login)
+ *  [ctf365.com](https://ctf365.com/)
+ *  [codegate.org](http://codegate.org/en/)
+ *  [legitbs.net](https://legitbs.net/)
+ *  [ghostintheshellcode](http://ghostintheshellcode.com/)
+ *  [try2hack](http://www.try2hack.nl/)
+ *  [gameofhacks](https://www.gameofhacks.com/)  
+ *  [letsdefend.io](https://app.letsdefend.io/)
  
   
   ## Github resources
@@ -191,6 +219,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
    * [Tryhackme blog](https://blog.tryhackme.com/)
    * [Start in infosec](https://malicious.link/start/)
    * [Ethical Hacking With Hack The Box :A free book for getting started in Ethical Hacking](https://book.ethicalhackinghtb.xyz/)
+   * [Hacking tutorials](https://www.hackingtutorials.org/)
 
 
 ## Paid training 
