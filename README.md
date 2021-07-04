@@ -79,6 +79,8 @@ A collection of awesome platforms, blogs, documents, books, resources and cool s
 - [Web-application cheatsheet](https://github.com/Ignitetechnologies/Web-Application-Cheatsheet)
 - [Web-pentesting-checklist](https://github.com/harshinsecurity/web-pentesting-checklist)
 - [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
+- [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
+- [Bugcroud university](https://www.bugcrowd.com/hackers/bugcrowd-university/)
 
 
 
@@ -171,7 +173,16 @@ We've gathered some useful resources to get your started on your bug bounty jour
  *  [https://hackingzone.net/](https://hackingzone.net/) try using this with google translate
  *  [http://suninatas.com/challenges](http://suninatas.com/challenges) 
  *  [Dream hack](https://dreamhack.io/) is Korean cyber security course. it also offer CTF. You can try it out with google translate.
- 
+ *  [The cyber institute](https://courses.thecyberinst.org/collections) Free OSINT Courses and Free OSINT Challenges.
+ *  [Sans holiday hack challenge - past challenges](https://holidayhackchallenge.com/past-challenges/)
+ *  [Holidayhackchallenge-2020](https://holidayhackchallenge.com/2020/)
+ *  [Kringlecon](https://2020.kringlecon.com/invite)
+ *  [Sans cyber-ranges](https://www.sans.org/blog/and-now-for-something-awesome-sans-launches-new-series-of-worldwide-capture-the-flag-cyber-events/)
+ *  [CTF-challenge](https://ctfchallenge.com/)
+ *  [247CTF](https://247ctf.com/)
+ *  [Backdoor ctf](https://backdoor.sdslabs.co/)
+ *  [Cybersecurity.wtf](https://cybersecurity.wtf/#)
+ *  
   
   ## Github resources
   * [Malware Analysis Course](https://github.com/hasherezade/malware_training_vol1)
@@ -230,6 +241,11 @@ We've gathered some useful resources to get your started on your bug bounty jour
    * [Hacking tutorials](https://www.hackingtutorials.org/)
    * [Halls of valhalla](https://halls-of-valhalla.org/beta/)  is a place for sharing knowledge and ideas. Users can submit code, as well as science, technology, and engineering-oriented news and articles. We also have an assortment of fun and educational challenges intended to help users learn more about programming, mathematics, encryption, hacking and more.
    * [Pentest.blog](https://pentest.blog/)
+   * https://hausec.com/
+   * https://dirkjanm.io/
+   * https://adsecurity.org/
+   * [infosec write-ups](https://infosecwriteups.com/)
+   * [Hacksplained blog](https://hacksplained.it/blog/)
 
 
 ## Paid training 
@@ -238,6 +254,9 @@ We've gathered some useful resources to get your started on your bug bounty jour
   * https://academy.tcm-sec.com/courses
   * [INE](https://my.ine.com/learning-paths)
   * https://hackersacademy.com/
+  * [Red team ops](https://www.zeropointsecurity.co.uk/red-team-ops)
+  * [Pentester academy - red team labs](https://www.pentesteracademy.com/topics)
+  * [Pentester labs](https://pentesterlab.com/)
 
 
 ## Resources
