@@ -159,7 +159,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
  *  [ringzer0ctf.com](https://ringzer0ctf.com/challenges)
  *  [io.netgarage](https://io.netgarage.org/)
  *  [pwn0.com](https://pwn0.com)
- *  [w3challs.com](https://w3challs.com/)
+ *  [w3c.com](https://w3challs.com/)
  *  [hax.tor.hu](http://hax.tor.hu/welcome/)
  *  [reversing.kr](http://reversing.kr/)
  *  [ctflearn.com](https://ctflearn.com/)
@@ -182,7 +182,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
  *  [247CTF](https://247ctf.com/)
  *  [Backdoor ctf](https://backdoor.sdslabs.co/)
  *  [Cybersecurity.wtf](https://cybersecurity.wtf/#)
- *  
+ 
   
   ## Github resources
   * [Malware Analysis Course](https://github.com/hasherezade/malware_training_vol1)
@@ -239,7 +239,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
    * [Start in infosec](https://malicious.link/start/)
    * [Ethical Hacking With Hack The Box :A free book for getting started in Ethical Hacking](https://book.ethicalhackinghtb.xyz/)
    * [Hacking tutorials](https://www.hackingtutorials.org/)
-   * [Halls of valhalla](https://halls-of-valhalla.org/beta/)  is a place for sharing knowledge and ideas. Users can submit code, as well as science, technology, and engineering-oriented news and articles. We also have an assortment of fun and educational challenges intended to help users learn more about programming, mathematics, encryption, hacking and more.
+   * [Halls of valhalla](https://halls-of-valhalla.org/beta/)  is a place for sharing knowledge and ideas. Users can submit code, as well as science, technology, and engineering-oriented news and articles.They also have an assortment of fun and educational challenges intended to help users learn more about programming, mathematics, encryption, hacking and more.
    * [Pentest.blog](https://pentest.blog/)
    * https://hausec.com/
    * https://dirkjanm.io/
