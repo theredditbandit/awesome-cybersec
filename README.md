@@ -18,6 +18,8 @@ A collection of awesome platforms, blogs, documents, books, resources and cool s
  * [Range force](https://portal.rangeforce.com/courses)
  * [HTB](https://www.hackthebox.eu/)
  * [Tryhackme](https://tryhackme.com/)
+ * [Blue team academy](https://app.letsdefend.io/academy/)
+ * [Blue team labs](https://blueteamlabs.online/)
  * [Kali revealed](https://kali.training/)
  * [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/)
  * https://platform.mosse-institute.com/#/dashboard
@@ -50,6 +52,7 @@ A collection of awesome platforms, blogs, documents, books, resources and cool s
  *  [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/)This codelab is built around **Gruyere** /ɡruːˈjɛər/ - a small, cheesy web application that allows its users to publish snippets of text and store assorted files. "Unfortunately," Gruyere has multiple security bugs ranging from cross-site scripting and cross-site request forgery, to information disclosure, denial of service, and remote code execution. The goal of this codelab is to guide you through discovering some of these bugs and learning ways to fix them both in Gruyere and in general.
  *   [Course materials for Modern Binary Exploitation](https://github.com/RPISEC/MBE)
  *   [professormesser.com](https://www.professormesser.com/)
+ *   [MCSI free training](https://platform.mosse-institute.com/#/dashboard)
  
  
 
@@ -74,6 +77,8 @@ A collection of awesome platforms, blogs, documents, books, resources and cool s
 - [The Best Bug Bounty Recon Methodology](https://securib.ee/beelog/the-best-bug-bounty-recon-methodology/)
 - [Pentesting web checklist](https://pentestbook.six2dez.com/others/web-checklist/)
 - [Web-application cheatsheet](https://github.com/Ignitetechnologies/Web-Application-Cheatsheet)
+- [Web-pentesting-checklist](https://github.com/harshinsecurity/web-pentesting-checklist)
+- [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
 
 
 
@@ -163,7 +168,9 @@ We've gathered some useful resources to get your started on your bug bounty jour
  *  [ghostintheshellcode](http://ghostintheshellcode.com/)
  *  [try2hack](http://www.try2hack.nl/)
  *  [gameofhacks](https://www.gameofhacks.com/)  
- *  [letsdefend.io](https://app.letsdefend.io/)
+ *  [https://hackingzone.net/](https://hackingzone.net/) try using this with google translate
+ *  [http://suninatas.com/challenges](http://suninatas.com/challenges) 
+ *  [Dream hack](https://dreamhack.io/) is Korean cyber security course. it also offer CTF. You can try it out with google translate.
  
   
   ## Github resources
@@ -190,6 +197,8 @@ We've gathered some useful resources to get your started on your bug bounty jour
   * [The book of secret knowledge : A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.](https://github.com/trimstray/the-book-of-secret-knowledge)
   * [PyWhat : identify anything](https://github.com/bee-san/pyWhat)
   * [OSEE prep resources](https://github.com/dhn/OSEE)
+  * [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+  
   
   
   
@@ -219,6 +228,8 @@ We've gathered some useful resources to get your started on your bug bounty jour
    * [Start in infosec](https://malicious.link/start/)
    * [Ethical Hacking With Hack The Box :A free book for getting started in Ethical Hacking](https://book.ethicalhackinghtb.xyz/)
    * [Hacking tutorials](https://www.hackingtutorials.org/)
+   * [Halls of valhalla](https://halls-of-valhalla.org/beta/)  is a place for sharing knowledge and ideas. Users can submit code, as well as science, technology, and engineering-oriented news and articles. We also have an assortment of fun and educational challenges intended to help users learn more about programming, mathematics, encryption, hacking and more.
+   * [Pentest.blog](https://pentest.blog/)
 
 
 ## Paid training 
@@ -343,6 +354,8 @@ We've gathered some useful resources to get your started on your bug bounty jour
   *  [Secure your linux install](https://www.reddit.com/r/linux/comments/ns7r7o/a_complete_yet_beginner_friendly_guide_on_how_to/)
   *  [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
   *  [Twitter-geolocate](https://github.com/davidkowalk/twitter_geolocate)
+  *  [Linux training academy](https://www.linuxtrainingacademy.com/)
+  *  [modern-unix](https://github.com/ibraheemdev/modern-unix) A collection of modern/faster/saner alternatives to common unix commands.
 
 
 ## Youtube channels 
@@ -374,9 +387,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
 
 ## Discord servers
 [the cyber mentor](https://discord.gg/tcm)  
-  
-[the many hats club](https://discord.gg/infosec)  
-  
+   
 [infosec prep ](https://discord.gg/infosecprep)  
   
 [certification station](https://discord.gg/certstation) 
