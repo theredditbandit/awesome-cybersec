@@ -44,7 +44,7 @@ A collection of awesome platforms, blogs, documents, books, resources and cool s
  * [Pentest standard](http://www.pentest-standard.org/index.php/Main_Page)
  * [Security-tube](http://www.securitytube.net/)
  * [Binary Analysis course](https://maxkersten.nl/binary-analysis-course/)
- * https://training.zempirians.com/start/here
+ * [https://training.zempirians.com/start/here](https://training.zempirians.com/start/here)
  * [Pwncollege](https://pwn.college/) pwn.college is a first-stage education platform for students (and other interested parties) to learn about, and practice, core cybersecurity concepts in a hands-on fashion. It is designed to take a “white belt” in cybersecurity to becoming a “blue belt”, able to approach (simple) CTFs and wargames. The philosophy of pwn.college is “practice makes perfect”.
  
  * [Exploit-exercises.com](https://exploit-exercises.com/)  provides a variety of virtual machines, documentation and challenges that can be used to learn about a variety of computer security issues such as privilege escalation, vulnerability analysis, exploit development, debugging, reverse engineering, and general cyber security issues.
@@ -126,7 +126,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
 - [Name that hash](https://github.com/HashPals/Name-That-Hash)
 - [Burp Automator(burpa) - A Burp Suite Automation Tool.](https://github.com/tristanlatr/burpa)
 - [The harvester](https://github.com/laramies/theHarvester)
-- https://technisette.com/p/tools
+- [https://technisette.com/p/tools](https://technisette.com/p/tools)
 
 
   
