@@ -11,10 +11,10 @@ A collection of awesome platforms, blogs, documents, books, resources and cool s
 
 
   Honestly before going through any of the resources mentioned here , getting familiar with the shortcuts is extremely helpful
-  https://www.shortcutfoo.com/
+  [shortcutfoo,com](https://www.shortcutfoo.com/)
   
   
-   ## Training 
+## Training 
  * [Range force](https://portal.rangeforce.com/courses)
  * [HTB](https://www.hackthebox.eu/)
  * [Tryhackme](https://tryhackme.com/)
