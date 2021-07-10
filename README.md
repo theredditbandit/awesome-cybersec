@@ -111,7 +111,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
  - [hacker101 videos](https://www.hacker101.com/videos)
 
   
-  ## Tools
+## Tools
 - [Pwncat](https://github.com/calebstewart/pwncat) is a post-exploitation platform ~~for Linux targets~~. It started out as a wrapper around basic bind and reverse shells and has grown from there. It streamlines common red team operations while staging code from your attacker machine, not the target.
 - [Automatic bypass (brute force) waf](https://github.com/3xp10it/xwaf)
 - [DFIR-Tools](https://github.com/archanchoudhury/DFIR-Tools)
@@ -184,7 +184,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
  *  [Cybersecurity.wtf](https://cybersecurity.wtf/#)
  
   
-  ## Github resources
+## Github resources
   * [Malware Analysis Course](https://github.com/hasherezade/malware_training_vol1)
   * [Malware-IR-TH-TI-Resources](https://github.com/ShilpeshTrivedi/Malware-IR-TH-TI-Resources/blob/main/Malware-IR-TH-TI-Resources.md#malware-ir-th-ti-resources)
   * [Red Team tactics and techniques](https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques)
@@ -215,7 +215,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
   
   
   
-  ## Blogs
+## Blogs
    * [https://blog.tryhackme.com/free\_path/](https://blog.tryhackme.com/free_path/)
    * [From zero to hero in your first pentest](https://corneacristian.medium.com/from-zero-to-your-first-penetration-test-7479bce3a5)
    * [So you want to be a hacker in 2021](https://tcm-sec.com/so-you-want-to-be-a-hacker-2021-edition/)
@@ -361,7 +361,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
 
 
 
-  ## Misclaneous links
+## Misclaneous links
   
   
   * [https://freetraining.dfirdiva.com]( https://freetraining.dfirdiva.com)
