@@ -22,10 +22,10 @@ A collection of awesome platforms, blogs, documents, books, resources and cool s
  * [Blue team labs](https://blueteamlabs.online/)
  * [Kali revealed](https://kali.training/)
  * [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/)
- * https://platform.mosse-institute.com/#/dashboard
- * https://infosec4tc.teachable.com/p/cism2020
- * [https://riptutorial.com/bash](https://riptutorial.com/bash)  
- * https://www.hackerrank.com/domains/shell
+ * [platform.mosse-institute.com](https://platform.mosse-institute.com/#/dashboard)
+ * [infosec4tc.teachable.com](https://infosec4tc.teachable.com/p/cism2020)
+ * [riptutorial.com/bash](https://riptutorial.com/bash)  
+ * [hackerrank.com/domains/shell](https://www.hackerrank.com/domains/shell)
  * [https://pentesterlab.com/](https://pentesterlab.com/)
  * [https://www.pentesteracademy.com/](https://www.pentesteracademy.com/)
  * [https://www.offensive-security.com/labs/individual/](https://www.offensive-security.com/labs/individual/)
@@ -35,7 +35,7 @@ A collection of awesome platforms, blogs, documents, books, resources and cool s
  * [Vulnhub CTF writeups](https://github.com/Ignitetechnologies/Vulnhub-CTF-Writeups)
  * [Linux Privilige escalation Cheatsheet](https://github.com/Ignitetechnologies/Linux-Privilege-Escalation)
  * [Privilige escalation](https://github.com/Ignitetechnologies/Privilege-Escalation)
- * https://hacking-lab.com/
+ * [corelan: exploit-writing-tutorial-part-1-stack-based-overflows](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
  * [https://scs.hacking-lab.com/](https://scs.hacking-lab.com/)
  * [Malware Noob2Ninja course](https://www.youtube.com/watch?v=GE_aSVq8ZnQ&list=PLiFO-R_BI-kAqDPqtnOq2n70mtAZ6xg5N)
  * [n3t2.3c](https://nets.ec/Main_Page)
@@ -198,7 +198,6 @@ We've gathered some useful resources to get your started on your bug bounty jour
   * [awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
   * [awesome-security](https://github.com/sbilly/awesome-security)
   * [infosec-resources](https://github.com/pascalschulz/Infosec-Resources)
-  * https://github.com/archanchoudhury/Davy-Jones-Locker
   * [Everything about web application firewalls (WAFs)](https://github.com/0xInfection/Awesome-WAF)
   * [awesome-hacking](https://github.com/carpedm20/awesome-hacking)
   * [BARF: Binary analysis and reverse engineering framework](https://github.com/programa-stic/barf-project)
@@ -221,7 +220,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
    * [From zero to hero in your first pentest](https://corneacristian.medium.com/from-zero-to-your-first-penetration-test-7479bce3a5)
    * [So you want to be a hacker in 2021](https://tcm-sec.com/so-you-want-to-be-a-hacker-2021-edition/)
    * [netsecfocus](https://www.netsecfocus.com/)
-   * https://nosecurity.blog/cptc2020
+   * [https://nosecurity.blog/cptc2020](https://nosecurity.blog/cptc2020)
    * [https://null-byte.wonderhowto.com/](https://null-byte.wonderhowto.com/)
    * [https://portswigger.net/blog/flying-high-in-the-web-security-academy](https://portswigger.net/blog/flying-high-in-the-web-security-academy)  
    * [https://www.simplycyber.io/free-cyber-resources](https://www.simplycyber.io/free-cyber-resources)  
@@ -230,7 +229,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
    * [https://www.hackingtutorials.org/](https://www.hackingtutorials.org/) 
    * [https://www.hacking-tutorial.com/](https://www.hacking-tutorial.com/) 
    *  [The Journey to Try Harder- TJnull's Preparation Guide for PEN-200 PWK OSCP 2.0](https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html)   
-   * https://hacklido.com/
+   * [https://hacklido.com/](https://hacklido.com/)
    * [What is a block cypher](https://www.freecodecamp.org/news/what-is-a-block-cipher/)
    * [freecodecamp blog](https://www.freecodecamp.org/news/)
    * [Redhuntlabs blog](https://redhuntlabs.com/blog)
@@ -241,9 +240,9 @@ We've gathered some useful resources to get your started on your bug bounty jour
    * [Hacking tutorials](https://www.hackingtutorials.org/)
    * [Halls of valhalla](https://halls-of-valhalla.org/beta/)  is a place for sharing knowledge and ideas. Users can submit code, as well as science, technology, and engineering-oriented news and articles.They also have an assortment of fun and educational challenges intended to help users learn more about programming, mathematics, encryption, hacking and more.
    * [Pentest.blog](https://pentest.blog/)
-   * https://hausec.com/
-   * https://dirkjanm.io/
-   * https://adsecurity.org/
+   * [https://hausec.com/](https://hausec.com/)
+   * [https://dirkjanm.io/]( https://dirkjanm.io/)
+   * [https://adsecurity.org/](https://adsecurity.org/)
    * [infosec write-ups](https://infosecwriteups.com/)
    * [Hacksplained blog](https://hacksplained.it/blog/)
 
@@ -251,17 +250,17 @@ We've gathered some useful resources to get your started on your bug bounty jour
 ## Paid training 
   * [cybersec labs](https://www.cyberseclabs.co.uk/)
   * [Virtyal Hacking Labs](https://www.virtualhackinglabs.com/)
-  * https://academy.tcm-sec.com/courses
+  * [https://academy.tcm-sec.com/courses]( https://academy.tcm-sec.com/courses)
   * [INE](https://my.ine.com/learning-paths)
-  * https://hackersacademy.com/
+  * [https://hackersacademy.com/](https://hackersacademy.com/)
   * [Red team ops](https://www.zeropointsecurity.co.uk/red-team-ops)
   * [Pentester academy - red team labs](https://www.pentesteracademy.com/topics)
   * [Pentester labs](https://pentesterlab.com/)
 
 
 ## Resources
-* https://startupstash.com/cybersecurity-resources/
-* https://threatexpress.com/redteaming/resources/
+* [https://startupstash.com/cybersecurity-resources/](https://startupstash.com/cybersecurity-resources/)
+* [https://threatexpress.com/redteaming/resources/](https://threatexpress.com/redteaming/resources/)
 * [Reverse enginering](https://www.infosecinstitute.com/skills/learning-paths/reverse-engineering/)
 * [https://ippsec.rocks/?#](https://ippsec.rocks/?#)  
 * [https://liveoverflow.com/](https://liveoverflow.com/)
@@ -365,7 +364,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
   ## Misclaneous links
   
   
-  * https://freetraining.dfirdiva.com/
+  * [https://freetraining.dfirdiva.com]( https://freetraining.dfirdiva.com)
  
  
   *  [You'll find majority of the books you're looking for here](https://b-ok.global/)
@@ -445,6 +444,6 @@ You are Welcome to Contribute. You can contribute by:
 - Adding more Tools, and other Resources.
 - Just adding a star the Github project :) 
 
- :point\_right: If you have some new idea about this Repository, issue, feedback or found some valuable tool feel free to open an issue or just DM me on discord @thelastmethbender#4823
+If you have some new idea about this Repository, issue, feedback or found some valuable tool feel free to open an issue or just DM me on discord @thelastmethbender#4823
 
 
