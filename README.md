@@ -111,8 +111,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
  - [hacker101 videos](https://www.hacker101.com/videos)
 
   
-  
- ## Tools
+  ## Tools
 - [Pwncat](https://github.com/calebstewart/pwncat) is a post-exploitation platform ~~for Linux targets~~. It started out as a wrapper around basic bind and reverse shells and has grown from there. It streamlines common red team operations while staging code from your attacker machine, not the target.
 - [Automatic bypass (brute force) waf](https://github.com/3xp10it/xwaf)
 - [DFIR-Tools](https://github.com/archanchoudhury/DFIR-Tools)
