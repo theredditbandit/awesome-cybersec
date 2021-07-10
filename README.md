@@ -100,18 +100,19 @@ We've gathered some useful resources to get your started on your bug bounty jour
 - [InsiderPhD](https://www.youtube.com/c/InsiderPhD) 
 - [Series for new bug hunters](https://www.youtube.com/playlist?list=PLbyncTkpno5FAC0DJYuJrEqHSMdudEffw) 
 - [Jhaddix](https://www.youtube.com/c/jhaddix) 
+
 ### Posts from Hacker101 members on how to get started hacking 
- -  [**zonduu**](https://medium.com/@zonduu/bug-bounty-beginners-guide-683e9d567b9f "https://medium.com/@zonduu/bug-bounty-beginners-guide-683e9d567b9f") 
- -   [**p4nda**](https://enfinlay.github.io/bugbounty/2020/08/15/so-you-wanna-hack.html "https://enfinlay.github.io/bugbounty/2020/08/15/so-you-wanna-hack.html")
- -  [**also a blog on subdomain takeovers**](https://enfinlay.github.io/sto/ip/domain/bugbounty/2020/09/12/ip-server-domain.html "https://enfinlay.github.io/sto/ip/domain/bugbounty/2020/09/12/ip-server-domain.html") 
- -    [**clos2100** on getting started without a technical background ](https://twitter.com/pirateducky/status/1300566000665014275 "https://twitter.com/pirateducky/status/1300566000665014275") - 
- -    [ **al-madjus** from 0 to bug hunter](https://klarsen.net/uncategorized/from-0-to-bug-hunter-my-journey/ "https://klarsen.net/uncategorized/from-0-to-bug-hunter-my-journey/")
- -  [ **dee-see**'s resources for Android Hacking](https://blog.deesee.xyz/android/security/2020/01/13/android-application-hacking-resources.html "https://blog.deesee.xyz/android/security/2020/01/13/android-application-hacking-resources.html") 
- -  [   **hacker101 videos**](https://www.hacker101.com/videos "https://www.hacker101.com/videos")
+ - [zonduu](https://medium.com/@zonduu/bug-bounty-beginners-guide-683e9d567b9f) 
+ - [p4nda](https://enfinlay.github.io/bugbounty/2020/08/15/so-you-wanna-hack.html)
+ - [also a blog on subdomain takeovers](https://enfinlay.github.io/sto/ip/domain/bugbounty/2020/09/12/ip-server-domain.html) 
+ - [clos2100 on getting started without a technical background ](https://twitter.com/pirateducky/status/1300566000665014275) 
+ - [al-madjus from 0 to bug hunter](https://klarsen.net/uncategorized/from-0-to-bug-hunter-my-journey/)
+ - [dee-see's resources for Android Hacking](https://blog.deesee.xyz/android/security/2020/01/13/android-application-hacking-resources.html) 
+ - [hacker101 videos](https://www.hacker101.com/videos)
 
   
   
-  ## Tools
+ ## Tools
 - [Pwncat](https://github.com/calebstewart/pwncat) is a post-exploitation platform ~~for Linux targets~~. It started out as a wrapper around basic bind and reverse shells and has grown from there. It streamlines common red team operations while staging code from your attacker machine, not the target.
 - [Automatic bypass (brute force) waf](https://github.com/3xp10it/xwaf)
 - [DFIR-Tools](https://github.com/archanchoudhury/DFIR-Tools)
