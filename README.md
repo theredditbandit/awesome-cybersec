@@ -11,7 +11,7 @@ A collection of awesome platforms, blogs, documents, books, resources and cool s
 
 
   Honestly before going through any of the resources mentioned here , getting familiar with the shortcuts is extremely helpful , check out 
-  [shortcutfoo,com](https://www.shortcutfoo.com/)
+  [shortcutfoo.com](https://www.shortcutfoo.com/)
   
   
 ## Training 
