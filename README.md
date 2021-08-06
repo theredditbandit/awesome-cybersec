@@ -249,7 +249,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
 
 ## Paid training 
   * [cybersec labs](https://www.cyberseclabs.co.uk/)
-  * [Virtyal Hacking Labs](https://www.virtualhackinglabs.com/)
+  * [Virtual Hacking Labs](https://www.virtualhackinglabs.com/)
   * [https://academy.tcm-sec.com/courses]( https://academy.tcm-sec.com/courses)
   * [INE](https://my.ine.com/learning-paths)
   * [https://hackersacademy.com/](https://hackersacademy.com/)
