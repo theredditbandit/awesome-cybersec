@@ -53,14 +53,17 @@ A collection of awesome platforms, blogs, documents, books, resources and cool s
  *   [Course materials for Modern Binary Exploitation](https://github.com/RPISEC/MBE)
  *   [professormesser.com](https://www.professormesser.com/)
  *   [MCSI free training](https://platform.mosse-institute.com/#/dashboard)
+ *   [insecure.org/stf/smashstack.html](https://insecure.org/stf/smashstack.html)
  
  
 
 ## WebApp/Bugbounty resources 
 *  [Web Security Academy](https://portswigger.net/web-security)
 *  [https://owasp.org/www-project-juice-shop/](https://owasp.org/www-project-juice-shop/)
+*  [Mutillidae II](https://github.com/webpwnized/mutillidae/)
+*  [VulnWeb](http://www.vulnweb.com/)
 *  [https://www.bugbountyhunter.com/](https://www.bugbountyhunter.com/) 
-*   [hacker101](https://www.hacker101.com/) is a free class for web security. Whether you’re a programmer with an interest in bug bounties or a seasoned security professional, Hacker101 has something to teach you.
+*  [hacker101](https://www.hacker101.com/) is a free class for web security. Whether you’re a programmer with an interest in bug bounties or a seasoned security professional, Hacker101 has something to teach you.
 *  [https://www.hacksplaining.com/](https://www.hacksplaining.com/)    
 *  [awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
 - [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
@@ -81,6 +84,7 @@ A collection of awesome platforms, blogs, documents, books, resources and cool s
 - [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
 - [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
 - [Bugcroud university](https://www.bugcrowd.com/hackers/bugcrowd-university/)
+- [OWASP Web Security Testing Guide](https://github.com/OWASP/wstg/tree/master/document)
 
 
 
@@ -127,6 +131,9 @@ We've gathered some useful resources to get your started on your bug bounty jour
 - [Burp Automator(burpa) - A Burp Suite Automation Tool.](https://github.com/tristanlatr/burpa)
 - [The harvester](https://github.com/laramies/theHarvester)
 - [https://technisette.com/p/tools](https://technisette.com/p/tools)
+- [Hakrawler](https://github.com/hakluke/hakrawler)
+- [Service Enumeration](https://github.com/ssstonebraker/Pentest-Service-Enumeration)
+- 
 
 
   
@@ -200,6 +207,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
   * [infosec-resources](https://github.com/pascalschulz/Infosec-Resources)
   * [Everything about web application firewalls (WAFs)](https://github.com/0xInfection/Awesome-WAF)
   * [awesome-hacking](https://github.com/carpedm20/awesome-hacking)
+  * [Awesome-Hacking-2](https://github.com/Hack-with-Github/Awesome-Hacking)
   * [BARF: Binary analysis and reverse engineering framework](https://github.com/programa-stic/barf-project)
   * [Automatic Linux privesc via exploitation of low-hanging fruit](https://github.com/liamg/traitor)
   * [CTF-KATANA](https://github.com/JohnHammond/ctf-katana)
@@ -208,6 +216,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
   * [PyWhat : identify anything](https://github.com/bee-san/pyWhat)
   * [OSEE prep resources](https://github.com/dhn/OSEE)
   * [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+  * [Thefuck]https://github.com/nvbn/thefuck
   
   
   
@@ -245,6 +254,8 @@ We've gathered some useful resources to get your started on your bug bounty jour
    * [https://adsecurity.org/](https://adsecurity.org/)
    * [infosec write-ups](https://infosecwriteups.com/)
    * [Hacksplained blog](https://hacksplained.it/blog/)
+   * [Get ready to pass the CISSP](https://www.freecodecamp.org/news/get-ready-to-pass-cissp-exam/?utm_source=pocket_mylist)
+   * [Blackmorerepos](https://www.blackmoreops.com/)
 
 
 ## Paid training 
@@ -303,6 +314,10 @@ We've gathered some useful resources to get your started on your bug bounty jour
 
 
 [Learn {Python,Java,C,JavaScript,PHP,Shell,C#}](https://www.learn-c.org/)
+
+[JavaPoint](https://www.javatpoint.com/)
+
+Learn to build a website with [LandChad.net](https://landchad.net/)
 
 
 ### **Python**
@@ -374,6 +389,8 @@ We've gathered some useful resources to get your started on your bug bounty jour
   *  [Twitter-geolocate](https://github.com/davidkowalk/twitter_geolocate)
   *  [Linux training academy](https://www.linuxtrainingacademy.com/)
   *  [modern-unix](https://github.com/ibraheemdev/modern-unix) A collection of modern/faster/saner alternatives to common unix commands.
+  *  [Linuxzoo](https://linuxzoo.net/)
+  *  [Snaplabs.io](https://www.snaplabs.io/)
 
 
 ## Youtube channels 
