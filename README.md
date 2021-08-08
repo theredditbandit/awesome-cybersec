@@ -47,8 +47,7 @@ A collection of awesome platforms, blogs, documents, books, resources and cool s
  * [https://training.zempirians.com/start/here](https://training.zempirians.com/start/here)
  * [Pwncollege](https://pwn.college/) pwn.college is a first-stage education platform for students (and other interested parties) to learn about, and practice, core cybersecurity concepts in a hands-on fashion. It is designed to take a “white belt” in cybersecurity to becoming a “blue belt”, able to approach (simple) CTFs and wargames. The philosophy of pwn.college is “practice makes perfect”.
  
- * [Exploit-exercises.com](https://exploit-exercises.com/)  provides a variety of virtual machines, documentation and challenges that can be used to learn about a variety of computer security issues such as privilege escalation, vulnerability analysis, exploit development, debugging, reverse engineering, and general cyber security issues.
- 
+  
  *  [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/)This codelab is built around **Gruyere** /ɡruːˈjɛər/ - a small, cheesy web application that allows its users to publish snippets of text and store assorted files. "Unfortunately," Gruyere has multiple security bugs ranging from cross-site scripting and cross-site request forgery, to information disclosure, denial of service, and remote code execution. The goal of this codelab is to guide you through discovering some of these bugs and learning ways to fix them both in Gruyere and in general.
  *   [Course materials for Modern Binary Exploitation](https://github.com/RPISEC/MBE)
  *   [professormesser.com](https://www.professormesser.com/)
