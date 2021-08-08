@@ -23,7 +23,6 @@ A collection of awesome platforms, blogs, documents, books, resources and cool s
  * [Kali revealed](https://kali.training/)
  * [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/)
  * [platform.mosse-institute.com](https://platform.mosse-institute.com/#/dashboard)
- * [infosec4tc.teachable.com](https://infosec4tc.teachable.com/p/cism2020)
  * [riptutorial.com/bash](https://riptutorial.com/bash)  
  * [hackerrank.com/domains/shell](https://www.hackerrank.com/domains/shell)
  * [https://pentesterlab.com/](https://pentesterlab.com/)
