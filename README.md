@@ -149,7 +149,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
  *  [Cryptohack.org](https://cryptohack.org/)
  *  [PicoCTF](https://www.picoctf.org/)
  *  [CMDchallenge](https://cmdchallenge.com/)
- *  [Defend the web](https://defendtheweb.net/dashboard)
+ *  [Defend the web](https://defendtheweb.net/)
  *  [ChaosVPN](https://wiki.hamburg.ccc.de/ChaosVPN)
  *  [PentestIT](https://lab.pentestit.ru/)
  *  [Overthewire-Warzone](https://overthewire.org/warzone/)
