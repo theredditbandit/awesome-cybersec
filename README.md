@@ -133,9 +133,6 @@ We've gathered some useful resources to get your started on your bug bounty jour
 - [Service Enumeration](https://github.com/ssstonebraker/Pentest-Service-Enumeration)
 - 
 
-
-  
-  
 ## CTF's
  *  [https://ctftime.org/](https://ctftime.org/) 
  *  [https://ctf.hackthebox.eu/ctfs](https://ctf.hackthebox.eu/ctfs)
