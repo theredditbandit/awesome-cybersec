@@ -9,9 +9,7 @@ A collection of awesome platforms, blogs, documents, books, resources and cool s
 
 #  All the good stuff in one place
 
-
-  Honestly before going through any of the resources mentioned here , getting familiar with the shortcuts is extremely helpful , check out 
-  [shortcutfoo.com](https://www.shortcutfoo.com/)
+ 
   
   
 ## Training 
@@ -386,6 +384,7 @@ Learn to build a website with [LandChad.net](https://landchad.net/)
   *  [modern-unix](https://github.com/ibraheemdev/modern-unix) A collection of modern/faster/saner alternatives to common unix commands.
   *  [Linuxzoo](https://linuxzoo.net/)
   *  [Snaplabs.io](https://www.snaplabs.io/)
+  *  [shortcutfoo.com](https://www.shortcutfoo.com/)
 
 
 ## Youtube channels 
