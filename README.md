@@ -136,7 +136,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
 
   
   
-  ## CTF's
+## CTF's
  *  [https://ctftime.org/](https://ctftime.org/) 
  *  [https://ctf.hackthebox.eu/ctfs](https://ctf.hackthebox.eu/ctfs)
  *  [https://www.hackthissite.org/](https://www.hackthissite.org/)
