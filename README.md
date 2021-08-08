@@ -211,7 +211,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
   * [PyWhat : identify anything](https://github.com/bee-san/pyWhat)
   * [OSEE prep resources](https://github.com/dhn/OSEE)
   * [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
-  * [Thefuck]https://github.com/nvbn/thefuck
+  * [Thefuck](https://github.com/nvbn/thefuck)
   
   
   
