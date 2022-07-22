@@ -312,6 +312,8 @@ We've gathered some useful resources to get your started on your bug bounty jour
 
 Learn to build a website with [LandChad.net](https://landchad.net/)
 
+[Scaler](https://www.scaler.com/topics/)
+
 
 ### **Python**
 
