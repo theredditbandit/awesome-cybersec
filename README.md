@@ -343,6 +343,8 @@ Learn to build a website with [LandChad.net](https://landchad.net/)
 
 [Learn and practice modern JavaScript](https://learnjavascript.online/)
 
+[Learn JavaScript in Detail](https://www.scaler.com/topics/javascript/)
+
 ### **Java**
 
 [A Hitchhiker's Guide to Containerizing (Spring Boot) Java Apps](https://blog.frankel.ch/hitchhiker-guide-containerizing-java-apps/)
