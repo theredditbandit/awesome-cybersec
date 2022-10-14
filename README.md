@@ -327,6 +327,7 @@ Learn to build a website with [LandChad.net](https://landchad.net/)
 
 [Intro to Python and Programming for non-CS majors](https://github.com/webartifex/intro-to-python)
 
+[Python Tutorial](https://www.scaler.com/topics/python/)
  
 [https://www.gormanalysis.com/blog/python-pandas-for-your-grandpa/](https://www.gormanalysis.com/blog/python-pandas-for-your-grandpa/)
 
