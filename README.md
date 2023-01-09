@@ -332,6 +332,9 @@ Learn to build a website with [LandChad.net](https://landchad.net/)
 
 [Practicepython.org](http://www.practicepython.org/)
 
+[Learn Python Programming](https://www.scaler.com/topics/python/)
+
+
 
 ### **Javascript**
 
