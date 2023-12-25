@@ -459,4 +459,14 @@ You are Welcome to Contribute. You can contribute by:
 
 If you have some new idea about this Repository, issue, feedback or found some valuable tool feel free to open an issue or just DM me on discord @thelastmethbender#4823
 
+## Star History
+
+<a href="https://star-history.com/#theredditbandit/awesome-cybersec&Timeline">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=theredditbandit/awesome-cybersec&type=Timeline&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=theredditbandit/awesome-cybersec&type=Timeline" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=theredditbandit/awesome-cybersec&type=Timeline" />
+  </picture>
+</a>
+
 
