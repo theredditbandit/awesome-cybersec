@@ -9,7 +9,7 @@ A collection of awesome platforms, blogs, documents, books, resources and cool s
 
 #  All the good stuff in one place
 
- 
+ [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=124172eb5f4a&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
   
   
 ## Training 
