@@ -52,7 +52,7 @@ A collection of awesome platforms, blogs, documents, books, resources and cool s
  *   [professormesser.com](https://www.professormesser.com/)
  *   [MCSI free training](https://platform.mosse-institute.com/#/dashboard)
  *   [insecure.org/stf/smashstack.html](https://insecure.org/stf/smashstack.html)
- 
+ *   [Networking fundamentals: CCNA 200-301 certification course, A comprehensive free course to learn fundamentals of networking](https://youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ&si=-F99io_SSPdcHjNW)
  
 
 ## WebApp/Bugbounty resources 
@@ -373,7 +373,7 @@ Learn to build a website with [LandChad.net](https://landchad.net/)
 
 
 
-## Misclaneous links
+## Miscellaneous links
   
   
   * [https://freetraining.dfirdiva.com]( https://freetraining.dfirdiva.com)
