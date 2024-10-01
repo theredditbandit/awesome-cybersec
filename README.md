@@ -262,7 +262,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
   * [Red team ops](https://www.zeropointsecurity.co.uk/red-team-ops)
   * [Pentester academy - red team labs](https://www.pentesteracademy.com/topics)
   * [Pentester labs](https://pentesterlab.com/)
-
+  * [KodeKloud](https://learn.kodekloud.com/courses)
 
 ## Resources
 * [https://startupstash.com/cybersecurity-resources/](https://startupstash.com/cybersecurity-resources/)
